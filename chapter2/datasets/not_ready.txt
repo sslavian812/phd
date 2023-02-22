@@ -1,0 +1,3 @@
+"CPU Time Used","Estimated Training Performance","Wallclock Time","Incumbent ID","Automatic Configurator (CPU) Time","Configuration..."
+
+0.0, 1.7976931348623157E308, 0.0, 1, 0.0,  _0__wekaclassifiersfunctionslogistic_00_R='5.548907780036061E-10', targetclass='weka.classifiers.functions.Logistic'

@@ -1,0 +1,766 @@
+ExpName, AlgoName, AllTime, BandTime, IterTime, IterNum, ErrorEstimate, BestAlgo, BestParams
+car,eps-greedy4,163,100,10,10,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,173,110,10,11,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,183,120,10,12,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,194,130,10,13,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,204,140,10,14,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,214,150,10,15,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,224,160,10,16,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,234,170,10,17,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,244,180,10,18,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,254,190,10,19,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,264,200,10,20,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,275,210,10,21,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,285,220,10,22,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,295,230,10,23,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,305,240,10,24,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,315,250,10,25,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,325,260,10,26,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,335,270,10,27,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,346,280,10,28,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,356,290,10,29,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,366,300,10,30,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,376,310,10,31,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,386,320,10,32,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,396,330,10,33,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,406,340,10,34,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,416,350,10,35,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,426,360,10,36,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,436,370,10,37,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,446,380,10,38,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,457,390,10,39,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,467,400,10,40,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,477,410,10,41,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,487,420,10,42,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,497,430,10,43,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,507,440,10,44,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,517,450,10,45,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,527,460,10,46,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,537,470,10,47,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,548,480,10,48,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,558,490,10,49,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,568,500,10,50,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,578,510,10,51,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,588,520,10,52,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,598,530,10,53,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,608,540,10,54,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,618,550,10,55,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,628,560,10,56,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,639,570,10,57,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,649,580,10,58,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,659,590,10,59,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,669,600,10,60,0.8264462947845459,weka.classifiers.trees.J48,-O -B -J -S -M 1
+car,eps-greedy4,209,130,13,10,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,222,143,13,11,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,235,156,13,12,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,248,169,13,13,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,261,182,13,14,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,274,195,13,15,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,287,208,13,16,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,300,221,13,17,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,314,234,13,18,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,327,247,13,19,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,340,260,13,20,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,353,273,13,21,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,366,286,13,22,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,379,299,13,23,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,392,312,13,24,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,405,325,13,25,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,418,338,13,26,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,431,351,13,27,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,444,364,13,28,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,457,377,13,29,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,470,390,13,30,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,483,403,13,31,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,497,416,13,32,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,510,429,13,33,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,523,442,13,34,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,536,455,13,35,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,549,468,13,36,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,562,481,13,37,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,575,494,13,38,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,588,507,13,39,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,601,520,13,40,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,615,533,13,41,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,628,546,13,42,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,641,559,13,43,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,654,572,13,44,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,667,585,13,45,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,680,598,13,46,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,693,611,13,47,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,706,624,13,48,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,719,637,13,49,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,732,650,13,50,0.8264462947845459,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,745,663,13,51,0.5509641766548157,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,759,676,13,52,0.5509641766548157,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,772,689,13,53,0.36730945110321045,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,785,702,13,54,0.36730945110321045,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,798,715,13,55,0.36730945110321045,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,811,728,13,56,0.36730945110321045,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,824,741,13,57,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,837,754,13,58,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,850,767,13,59,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,863,780,13,60,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.4284595019779338 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.532348683051334 -L"
+car,eps-greedy4,257,160,16,10,2.4793388843536377,weka.classifiers.functions.SMO,-C 1.2211006754745084 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.661505689241823 -L"
+car,eps-greedy4,273,176,16,11,2.4793388843536377,weka.classifiers.functions.SMO,-C 1.2211006754745084 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.661505689241823 -L"
+car,eps-greedy4,289,192,16,12,2.4793388843536377,weka.classifiers.functions.SMO,-C 1.2211006754745084 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.661505689241823 -L"
+car,eps-greedy4,305,208,16,13,2.4793388843536377,weka.classifiers.functions.SMO,-C 1.2211006754745084 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.661505689241823 -L"
+car,eps-greedy4,322,224,16,14,2.4793388843536377,weka.classifiers.functions.SMO,-C 1.2211006754745084 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.661505689241823 -L"
+car,eps-greedy4,338,240,16,15,2.4793388843536377,weka.classifiers.functions.SMO,-C 1.2211006754745084 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.661505689241823 -L"
+car,eps-greedy4,354,256,16,16,2.4793388843536377,weka.classifiers.functions.SMO,-C 1.2211006754745084 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.661505689241823 -L"
+car,eps-greedy4,370,272,16,17,2.4793388843536377,weka.classifiers.functions.SMO,-C 1.2211006754745084 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.661505689241823 -L"
+car,eps-greedy4,386,288,16,18,2.4793388843536377,weka.classifiers.functions.SMO,-C 1.2211006754745084 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.661505689241823 -L"
+car,eps-greedy4,402,304,16,19,2.4793388843536377,weka.classifiers.functions.SMO,-C 1.2211006754745084 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.661505689241823 -L"
+car,eps-greedy4,418,320,16,20,2.4793388843536377,weka.classifiers.functions.SMO,-C 1.2211006754745084 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.661505689241823 -L"
+car,eps-greedy4,434,336,16,21,2.4793388843536377,weka.classifiers.functions.SMO,-C 1.2211006754745084 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.661505689241823 -L"
+car,eps-greedy4,450,352,16,22,1.6528925895690918,weka.classifiers.functions.SMO,-C 1.2211006754745084 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.661505689241823 -L"
+car,eps-greedy4,466,368,16,23,1.6528925895690918,weka.classifiers.functions.SMO,-C 1.2211006754745084 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.661505689241823 -L"
+car,eps-greedy4,482,384,16,24,1.6528925895690918,weka.classifiers.functions.SMO,-C 1.2211006754745084 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.661505689241823 -L"
+car,eps-greedy4,498,400,16,25,1.6528925895690918,weka.classifiers.functions.SMO,-C 1.2211006754745084 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.661505689241823 -L"
+car,eps-greedy4,514,416,16,26,1.6528925895690918,weka.classifiers.functions.SMO,-C 1.2211006754745084 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.661505689241823 -L"
+car,eps-greedy4,531,432,16,27,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,547,448,16,28,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,563,464,16,29,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,579,480,16,30,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,595,496,16,31,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,611,512,16,32,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,627,528,16,33,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,643,544,16,34,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,659,560,16,35,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,675,576,16,36,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,691,592,16,37,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,707,608,16,38,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,723,624,16,39,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,739,640,16,40,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,755,656,16,41,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,772,672,16,42,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,788,688,16,43,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,804,704,16,44,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,820,720,16,45,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,836,736,16,46,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,852,752,16,47,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,868,768,16,48,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,884,784,16,49,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,900,800,16,50,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,916,816,16,51,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,932,832,16,52,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,948,848,16,53,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,964,864,16,54,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,980,880,16,55,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,997,896,16,56,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,1013,912,16,57,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,1029,928,16,58,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,1045,944,16,59,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,1061,960,16,60,1.3774104118347168,weka.classifiers.functions.SMO,-C 1.2864970340434772 -N 2 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.698548732032055"
+car,eps-greedy4,305,190,19,10,2.4793388843536377,weka.classifiers.functions.SMO,-C 0.7778781164646021 -N 2 -M -K "weka.classifiers.functions.supportVector.RBFKernel -G 0.20873449736614452"
+car,eps-greedy4,324,209,19,11,2.4793388843536377,weka.classifiers.functions.SMO,-C 0.7778781164646021 -N 2 -M -K "weka.classifiers.functions.supportVector.RBFKernel -G 0.20873449736614452"
+car,eps-greedy4,343,228,19,12,2.4793388843536377,weka.classifiers.functions.SMO,-C 0.7778781164646021 -N 2 -M -K "weka.classifiers.functions.supportVector.RBFKernel -G 0.20873449736614452"
+car,eps-greedy4,362,247,19,13,2.4793388843536377,weka.classifiers.functions.SMO,-C 0.7778781164646021 -N 2 -M -K "weka.classifiers.functions.supportVector.RBFKernel -G 0.20873449736614452"
+car,eps-greedy4,381,266,19,14,2.4793388843536377,weka.classifiers.functions.SMO,-C 0.7778781164646021 -N 2 -M -K "weka.classifiers.functions.supportVector.RBFKernel -G 0.20873449736614452"
+car,eps-greedy4,400,285,19,15,2.4793388843536377,weka.classifiers.functions.SMO,-C 0.7778781164646021 -N 2 -M -K "weka.classifiers.functions.supportVector.RBFKernel -G 0.20873449736614452"
+car,eps-greedy4,419,304,19,16,2.4793388843536377,weka.classifiers.functions.SMO,-C 0.7778781164646021 -N 2 -M -K "weka.classifiers.functions.supportVector.RBFKernel -G 0.20873449736614452"
+car,eps-greedy4,438,323,19,17,2.4793388843536377,weka.classifiers.functions.SMO,-C 0.7778781164646021 -N 2 -M -K "weka.classifiers.functions.supportVector.RBFKernel -G 0.20873449736614452"
+car,eps-greedy4,457,342,19,18,2.4793388843536377,weka.classifiers.functions.SMO,-C 0.7778781164646021 -N 2 -M -K "weka.classifiers.functions.supportVector.RBFKernel -G 0.20873449736614452"
+car,eps-greedy4,477,361,19,19,2.4793388843536377,weka.classifiers.functions.SMO,-C 0.7778781164646021 -N 2 -M -K "weka.classifiers.functions.supportVector.RBFKernel -G 0.20873449736614452"
+car,eps-greedy4,496,380,19,20,2.4793388843536377,weka.classifiers.functions.SMO,-C 0.7778781164646021 -N 2 -M -K "weka.classifiers.functions.supportVector.RBFKernel -G 0.20873449736614452"
+car,eps-greedy4,515,399,19,21,2.4793388843536377,weka.classifiers.functions.SMO,-C 0.7778781164646021 -N 2 -M -K "weka.classifiers.functions.supportVector.RBFKernel -G 0.20873449736614452"
+car,eps-greedy4,534,418,19,22,2.4793388843536377,weka.classifiers.functions.SMO,-C 0.7778781164646021 -N 2 -M -K "weka.classifiers.functions.supportVector.RBFKernel -G 0.20873449736614452"
+car,eps-greedy4,553,437,19,23,2.4793388843536377,weka.classifiers.functions.SMO,-C 0.7778781164646021 -N 2 -M -K "weka.classifiers.functions.supportVector.RBFKernel -G 0.20873449736614452"
+car,eps-greedy4,572,456,19,24,2.4793388843536377,weka.classifiers.functions.SMO,-C 0.7778781164646021 -N 2 -M -K "weka.classifiers.functions.supportVector.RBFKernel -G 0.20873449736614452"
+car,eps-greedy4,591,475,19,25,2.4793388843536377,weka.classifiers.functions.SMO,-C 0.7778781164646021 -N 2 -M -K "weka.classifiers.functions.supportVector.RBFKernel -G 0.20873449736614452"
+car,eps-greedy4,610,494,19,26,2.4793388843536377,weka.classifiers.functions.SMO,-C 0.7778781164646021 -N 2 -M -K "weka.classifiers.functions.supportVector.RBFKernel -G 0.20873449736614452"
+car,eps-greedy4,629,513,19,27,2.4793388843536377,weka.classifiers.functions.SMO,-C 0.7778781164646021 -N 2 -M -K "weka.classifiers.functions.supportVector.RBFKernel -G 0.20873449736614452"
+car,eps-greedy4,648,532,19,28,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,667,551,19,29,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,686,570,19,30,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,705,589,19,31,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,725,608,19,32,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,744,627,19,33,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,763,646,19,34,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,782,665,19,35,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,801,684,19,36,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,820,703,19,37,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,839,722,19,38,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,858,741,19,39,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,877,760,19,40,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,896,779,19,41,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,915,798,19,42,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,934,817,19,43,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,953,836,19,44,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,972,855,19,45,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,992,874,19,46,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,1011,893,19,47,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,1030,912,19,48,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,1049,931,19,49,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,1068,950,19,50,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,1087,969,19,51,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,1106,988,19,52,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,1125,1007,19,53,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,1144,1026,19,54,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,1163,1045,19,55,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,1182,1064,19,56,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,1202,1083,19,57,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,1221,1102,19,58,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,1240,1121,19,59,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,1259,1140,19,60,0.4958677589893341,weka.classifiers.functions.SMO,-C 0.9001254626531585 -N 0 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.654889508647325 -L"
+car,eps-greedy4,353,220,22,10,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,375,242,22,11,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,397,264,22,12,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,419,286,22,13,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,441,308,22,14,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,463,330,22,15,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,485,352,22,16,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,507,374,22,17,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,530,396,22,18,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,552,418,22,19,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,574,440,22,20,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,596,462,22,21,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,618,484,22,22,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,640,506,22,23,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,662,528,22,24,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,684,550,22,25,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,706,572,22,26,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,728,594,22,27,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,750,616,22,28,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,772,638,22,29,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,794,660,22,30,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,817,682,22,31,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,839,704,22,32,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,861,726,22,33,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,883,748,22,34,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,905,770,22,35,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,927,792,22,36,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,949,814,22,37,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,971,836,22,38,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,993,858,22,39,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,1015,880,22,40,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,1037,902,22,41,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,1059,924,22,42,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,1081,946,22,43,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,1103,968,22,44,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,1125,990,22,45,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,1148,1012,22,46,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,1170,1034,22,47,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,1192,1056,22,48,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,1214,1078,22,49,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,1236,1100,22,50,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,1258,1122,22,51,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,1280,1144,22,52,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,1302,1166,22,53,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,1324,1188,22,54,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,1346,1210,22,55,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,1368,1232,22,56,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,1390,1254,22,57,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,1412,1276,22,58,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,1434,1298,22,59,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,1457,1320,22,60,0.41322314739227295,weka.classifiers.functions.SMO,-C 1.48174552300136 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.828939816089377"
+car,eps-greedy4,401,250,25,10,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,426,275,25,11,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,451,300,25,12,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,476,325,25,13,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,501,350,25,14,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,526,375,25,15,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,551,400,25,16,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,576,425,25,17,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,602,450,25,18,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,627,475,25,19,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,652,500,25,20,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,677,525,25,21,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,702,550,25,22,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,727,575,25,23,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,752,600,25,24,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,777,625,25,25,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,802,650,25,26,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,827,675,25,27,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,852,700,25,28,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,877,725,25,29,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,902,750,25,30,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,927,775,25,31,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,952,800,25,32,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,977,825,25,33,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.5188281350363934 -M 0.5164034804706206 -H i -D -S 1
+car,eps-greedy4,1003,850,25,34,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1028,875,25,35,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1053,900,25,36,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1078,925,25,37,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1103,950,25,38,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1128,975,25,39,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1153,1000,25,40,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1178,1025,25,41,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1203,1050,25,42,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1228,1075,25,43,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1253,1100,25,44,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1278,1125,25,45,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1303,1150,25,46,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1328,1175,25,47,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1354,1200,25,48,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1379,1225,25,49,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1404,1250,25,50,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1429,1275,25,51,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1454,1300,25,52,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1479,1325,25,53,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1504,1350,25,54,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1529,1375,25,55,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1554,1400,25,56,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1579,1425,25,57,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1604,1450,25,58,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1629,1475,25,59,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,1654,1500,25,60,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.350345580666228 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.4371857149030034 -L"
+car,eps-greedy4,449,280,28,10,0.5903187990188599,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,477,308,28,11,0.5903187990188599,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,505,336,28,12,0.5903187990188599,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,533,364,28,13,0.5903187990188599,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,561,392,28,14,0.5903187990188599,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,589,420,28,15,0.5903187990188599,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,617,448,28,16,0.5903187990188599,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,645,476,28,17,0.5903187990188599,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,673,504,28,18,0.5903187990188599,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,701,532,28,19,0.5903187990188599,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,729,560,28,20,0.5903187990188599,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,757,588,28,21,0.5903187990188599,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,786,616,28,22,0.5903187990188599,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,814,644,28,23,0.5903187990188599,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,842,672,28,24,0.5903187990188599,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,870,700,28,25,0.5903187990188599,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,898,728,28,26,0.5903187990188599,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,926,756,28,27,0.5903187990188599,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,954,784,28,28,0.5903187990188599,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,982,812,28,29,0.5903187990188599,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1010,840,28,30,0.5903187990188599,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1038,868,28,31,0.5903187990188599,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1066,896,28,32,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1094,924,28,33,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1122,952,28,34,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1150,980,28,35,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1179,1008,28,36,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1207,1036,28,37,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1235,1064,28,38,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1263,1092,28,39,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1291,1120,28,40,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1319,1148,28,41,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1347,1176,28,42,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1375,1204,28,43,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1403,1232,28,44,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1431,1260,28,45,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1459,1288,28,46,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1487,1316,28,47,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1515,1344,28,48,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1543,1372,28,49,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1571,1400,28,50,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1600,1428,28,51,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1628,1456,28,52,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1656,1484,28,53,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1684,1512,28,54,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1712,1540,28,55,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1740,1568,28,56,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1768,1596,28,57,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1796,1624,28,58,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1824,1652,28,59,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,1852,1680,28,60,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.7767762836132082 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 3.4049779531991455 -L"
+car,eps-greedy4,497,310,31,10,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,528,341,31,11,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,559,372,31,12,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,590,403,31,13,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,621,434,31,14,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,652,465,31,15,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,683,496,31,16,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,714,527,31,17,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,746,558,31,18,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,777,589,31,19,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,808,620,31,20,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,839,651,31,21,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,870,682,31,22,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,901,713,31,23,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,932,744,31,24,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,963,775,31,25,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,994,806,31,26,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1025,837,31,27,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1056,868,31,28,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1087,899,31,29,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1118,930,31,30,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1149,961,31,31,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1180,992,31,32,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1212,1023,31,33,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1243,1054,31,34,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1274,1085,31,35,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1305,1116,31,36,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1336,1147,31,37,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1367,1178,31,38,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1398,1209,31,39,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1429,1240,31,40,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1460,1271,31,41,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1491,1302,31,42,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1522,1333,31,43,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1553,1364,31,44,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1584,1395,31,45,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1616,1426,31,46,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1647,1457,31,47,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1678,1488,31,48,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1709,1519,31,49,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1740,1550,31,50,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1771,1581,31,51,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1802,1612,31,52,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1833,1643,31,53,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1864,1674,31,54,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1895,1705,31,55,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1926,1736,31,56,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1957,1767,31,57,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,1988,1798,31,58,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,2019,1829,31,59,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,2051,1860,31,60,0.20661157369613647,weka.classifiers.functions.MultilayerPerceptron,-L 0.6870680087060198 -M 0.34881698426527963 -H t -C -R -S 1
+car,eps-greedy4,545,340,34,10,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,579,374,34,11,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,613,408,34,12,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,647,442,34,13,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,681,476,34,14,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,715,510,34,15,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,749,544,34,16,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,783,578,34,17,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,818,612,34,18,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,852,646,34,19,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,886,680,34,20,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,920,714,34,21,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,954,748,34,22,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,988,782,34,23,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1022,816,34,24,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1056,850,34,25,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1090,884,34,26,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1124,918,34,27,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1158,952,34,28,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1192,986,34,29,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1226,1020,34,30,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1260,1054,34,31,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1295,1088,34,32,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1329,1122,34,33,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1363,1156,34,34,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1397,1190,34,35,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1431,1224,34,36,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1465,1258,34,37,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1499,1292,34,38,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1533,1326,34,39,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1567,1360,34,40,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1601,1394,34,41,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1635,1428,34,42,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1669,1462,34,43,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1703,1496,34,44,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1738,1530,34,45,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1772,1564,34,46,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1806,1598,34,47,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1840,1632,34,48,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1874,1666,34,49,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1908,1700,34,50,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1942,1734,34,51,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,1976,1768,34,52,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,2010,1802,34,53,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,2044,1836,34,54,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,2078,1870,34,55,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,2112,1904,34,56,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,2146,1938,34,57,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,2180,1972,34,58,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,2215,2006,34,59,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,2249,2040,34,60,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.1843310207733045 -M 0.3606132376944 -H t -C -S 1
+car,eps-greedy4,593,370,37,10,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.080844085900696 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.800613941519538 -L"
+car,eps-greedy4,630,407,37,11,0.4958677589893341,weka.classifiers.functions.SMO,-C 1.080844085900696 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.800613941519538 -L"
+car,eps-greedy4,667,444,37,12,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,704,481,37,13,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,741,518,37,14,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,778,555,37,15,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,815,592,37,16,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,852,629,37,17,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,889,666,37,18,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,926,703,37,19,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,964,740,37,20,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1001,777,37,21,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1038,814,37,22,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1075,851,37,23,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1112,888,37,24,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1149,925,37,25,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1186,962,37,26,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1223,999,37,27,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1260,1036,37,28,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1297,1073,37,29,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1334,1110,37,30,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1371,1147,37,31,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1408,1184,37,32,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1446,1221,37,33,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1483,1258,37,34,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1520,1295,37,35,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1557,1332,37,36,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1594,1369,37,37,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1631,1406,37,38,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1668,1443,37,39,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1705,1480,37,40,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1742,1517,37,41,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1779,1554,37,42,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1816,1591,37,43,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1853,1628,37,44,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1890,1665,37,45,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1928,1702,37,46,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,1965,1739,37,47,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,2002,1776,37,48,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,2039,1813,37,49,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,2076,1850,37,50,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,2113,1887,37,51,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,2150,1924,37,52,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,2187,1961,37,53,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,2224,1998,37,54,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,2261,2035,37,55,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,2298,2072,37,56,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,2335,2109,37,57,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,2372,2146,37,58,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,2409,2183,37,59,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,2446,2220,37,60,0.3305785059928894,weka.classifiers.functions.SMO,-C 1.399820225646904 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.952475465377835"
+car,eps-greedy4,641,400,40,10,2.8335301876068115,weka.classifiers.functions.SMO,-C 1.2202086475552871 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.2306677582895005 -L"
+car,eps-greedy4,681,440,40,11,2.8335301876068115,weka.classifiers.functions.SMO,-C 1.2202086475552871 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.2306677582895005 -L"
+car,eps-greedy4,721,480,40,12,2.6446280479431152,weka.classifiers.functions.SMO,-C 1.2202086475552871 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.2306677582895005 -L"
+car,eps-greedy4,761,520,40,13,2.6446280479431152,weka.classifiers.functions.SMO,-C 1.2202086475552871 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.2306677582895005 -L"
+car,eps-greedy4,801,560,40,14,2.6446280479431152,weka.classifiers.functions.SMO,-C 1.2202086475552871 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.2306677582895005 -L"
+car,eps-greedy4,841,600,40,15,2.6446280479431152,weka.classifiers.functions.SMO,-C 1.2202086475552871 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.2306677582895005 -L"
+car,eps-greedy4,881,640,40,16,2.6446280479431152,weka.classifiers.functions.SMO,-C 1.2202086475552871 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.2306677582895005 -L"
+car,eps-greedy4,921,680,40,17,2.6446280479431152,weka.classifiers.functions.SMO,-C 1.2202086475552871 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.2306677582895005 -L"
+car,eps-greedy4,961,720,40,18,2.6446280479431152,weka.classifiers.functions.SMO,-C 1.2202086475552871 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.2306677582895005 -L"
+car,eps-greedy4,1001,760,40,19,2.6446280479431152,weka.classifiers.functions.SMO,-C 1.2202086475552871 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.2306677582895005 -L"
+car,eps-greedy4,1041,800,40,20,2.6446280479431152,weka.classifiers.functions.SMO,-C 1.2202086475552871 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.2306677582895005 -L"
+car,eps-greedy4,1081,840,40,21,1.8890200853347778,weka.classifiers.functions.MultilayerPerceptron,-L 0.8637747677823298 -M 0.5504760252568378 -H a -S 1
+car,eps-greedy4,1121,880,40,22,1.8890200853347778,weka.classifiers.functions.MultilayerPerceptron,-L 0.8637747677823298 -M 0.5504760252568378 -H a -S 1
+car,eps-greedy4,1162,920,40,23,1.8890200853347778,weka.classifiers.functions.MultilayerPerceptron,-L 0.8637747677823298 -M 0.5504760252568378 -H a -S 1
+car,eps-greedy4,1202,960,40,24,1.8890200853347778,weka.classifiers.functions.MultilayerPerceptron,-L 0.8637747677823298 -M 0.5504760252568378 -H a -S 1
+car,eps-greedy4,1242,1000,40,25,1.8890200853347778,weka.classifiers.functions.MultilayerPerceptron,-L 0.8637747677823298 -M 0.5504760252568378 -H a -S 1
+car,eps-greedy4,1282,1040,40,26,1.8890200853347778,weka.classifiers.functions.MultilayerPerceptron,-L 0.8637747677823298 -M 0.5504760252568378 -H a -S 1
+car,eps-greedy4,1322,1080,40,27,1.8890200853347778,weka.classifiers.functions.MultilayerPerceptron,-L 0.8637747677823298 -M 0.5504760252568378 -H a -S 1
+car,eps-greedy4,1362,1120,40,28,1.8890200853347778,weka.classifiers.functions.MultilayerPerceptron,-L 0.8637747677823298 -M 0.5504760252568378 -H a -S 1
+car,eps-greedy4,1402,1160,40,29,1.8890200853347778,weka.classifiers.functions.MultilayerPerceptron,-L 0.8637747677823298 -M 0.5504760252568378 -H a -S 1
+car,eps-greedy4,1442,1200,40,30,1.5702478885650635,weka.classifiers.functions.SMO,-C 0.5075989137024178 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.8895551631262855"
+car,eps-greedy4,1482,1240,40,31,1.5702478885650635,weka.classifiers.functions.SMO,-C 0.5075989137024178 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.8895551631262855"
+car,eps-greedy4,1522,1280,40,32,1.5702478885650635,weka.classifiers.functions.SMO,-C 0.5075989137024178 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.8895551631262855"
+car,eps-greedy4,1562,1320,40,33,1.5702478885650635,weka.classifiers.functions.SMO,-C 0.5075989137024178 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.8895551631262855"
+car,eps-greedy4,1602,1360,40,34,1.5702478885650635,weka.classifiers.functions.SMO,-C 0.5075989137024178 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.8895551631262855"
+car,eps-greedy4,1643,1400,40,35,1.5702478885650635,weka.classifiers.functions.SMO,-C 0.5075989137024178 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.8895551631262855"
+car,eps-greedy4,1683,1440,40,36,1.5702478885650635,weka.classifiers.functions.SMO,-C 0.5075989137024178 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.8895551631262855"
+car,eps-greedy4,1723,1480,40,37,1.5702478885650635,weka.classifiers.functions.SMO,-C 0.5075989137024178 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.8895551631262855"
+car,eps-greedy4,1763,1520,40,38,1.5702478885650635,weka.classifiers.functions.SMO,-C 0.5075989137024178 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.8895551631262855"
+car,eps-greedy4,1803,1560,40,39,1.5702478885650635,weka.classifiers.functions.SMO,-C 0.5075989137024178 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.8895551631262855"
+car,eps-greedy4,1843,1600,40,40,1.5702478885650635,weka.classifiers.functions.SMO,-C 0.5075989137024178 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.8895551631262855"
+car,eps-greedy4,1883,1640,40,41,1.5702478885650635,weka.classifiers.functions.SMO,-C 0.5075989137024178 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.8895551631262855"
+car,eps-greedy4,1923,1680,40,42,1.5702478885650635,weka.classifiers.functions.SMO,-C 0.5075989137024178 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.8895551631262855"
+car,eps-greedy4,1963,1720,40,43,1.5702478885650635,weka.classifiers.functions.SMO,-C 0.5075989137024178 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.8895551631262855"
+car,eps-greedy4,2003,1760,40,44,1.5702478885650635,weka.classifiers.functions.SMO,-C 0.5075989137024178 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.8895551631262855"
+car,eps-greedy4,2043,1800,40,45,1.5702478885650635,weka.classifiers.functions.SMO,-C 0.5075989137024178 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.8895551631262855"
+car,eps-greedy4,2084,1840,40,46,1.5702478885650635,weka.classifiers.functions.SMO,-C 0.5075989137024178 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.8895551631262855"
+car,eps-greedy4,2124,1880,40,47,1.5702478885650635,weka.classifiers.functions.SMO,-C 0.5075989137024178 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.8895551631262855"
+car,eps-greedy4,2164,1920,40,48,1.5702478885650635,weka.classifiers.functions.SMO,-C 0.5075989137024178 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.8895551631262855"
+car,eps-greedy4,2204,1960,40,49,1.5702478885650635,weka.classifiers.functions.SMO,-C 0.5075989137024178 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.8895551631262855"
+car,eps-greedy4,2244,2000,40,50,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.8424457087272574 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.480808317683955 -L"
+car,eps-greedy4,2284,2040,40,51,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.8424457087272574 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.480808317683955 -L"
+car,eps-greedy4,2324,2080,40,52,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.8424457087272574 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.480808317683955 -L"
+car,eps-greedy4,2364,2120,40,53,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.8424457087272574 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.480808317683955 -L"
+car,eps-greedy4,2404,2160,40,54,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.8424457087272574 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.480808317683955 -L"
+car,eps-greedy4,2444,2200,40,55,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.8424457087272574 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.480808317683955 -L"
+car,eps-greedy4,2484,2240,40,56,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.8424457087272574 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.480808317683955 -L"
+car,eps-greedy4,2524,2280,40,57,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.8424457087272574 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.480808317683955 -L"
+car,eps-greedy4,2564,2320,40,58,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.8424457087272574 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.480808317683955 -L"
+car,eps-greedy4,2604,2360,40,59,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.8424457087272574 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.480808317683955 -L"
+car,eps-greedy4,2644,2400,40,60,0.41322314739227295,weka.classifiers.functions.SMO,-C 0.8424457087272574 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.480808317683955 -L"
+car,eps-greedy4,689,430,43,10,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,732,473,43,11,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,775,516,43,12,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,818,559,43,13,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,861,602,43,14,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,904,645,43,15,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,947,688,43,16,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,990,731,43,17,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,1033,774,43,18,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,1076,817,43,19,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,1119,860,43,20,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,1163,903,43,21,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,1206,946,43,22,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,1249,989,43,23,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,1292,1032,43,24,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,1335,1075,43,25,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,1378,1118,43,26,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,1421,1161,43,27,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,1464,1204,43,28,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,1507,1247,43,29,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,1550,1290,43,30,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,1593,1333,43,31,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,1636,1376,43,32,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,1679,1419,43,33,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,1722,1462,43,34,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,1766,1505,43,35,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,1809,1548,43,36,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,1852,1591,43,37,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,1895,1634,43,38,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,1938,1677,43,39,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,1981,1720,43,40,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,2024,1763,43,41,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,2067,1806,43,42,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,2110,1849,43,43,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,2153,1892,43,44,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,2196,1935,43,45,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,2239,1978,43,46,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,2282,2021,43,47,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,2326,2064,43,48,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,2369,2107,43,49,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,2412,2150,43,50,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,2455,2193,43,51,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,2498,2236,43,52,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,2541,2279,43,53,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,2584,2322,43,54,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,2627,2365,43,55,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,2670,2408,43,56,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,2713,2451,43,57,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,2756,2494,43,58,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,2799,2537,43,59,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,2843,2580,43,60,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7817530966389177 -N 2 -M -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5101989919118544 -L"
+car,eps-greedy4,737,460,46,10,1.2396694421768188,weka.classifiers.functions.MultilayerPerceptron,-L 0.2981183808636368 -M 0.41701140722554286 -H i -C -S 1
+car,eps-greedy4,783,506,46,11,1.2396694421768188,weka.classifiers.functions.MultilayerPerceptron,-L 0.2981183808636368 -M 0.41701140722554286 -H i -C -S 1
+car,eps-greedy4,829,552,46,12,1.2396694421768188,weka.classifiers.functions.MultilayerPerceptron,-L 0.2981183808636368 -M 0.41701140722554286 -H i -C -S 1
+car,eps-greedy4,875,598,46,13,1.2396694421768188,weka.classifiers.functions.MultilayerPerceptron,-L 0.2981183808636368 -M 0.41701140722554286 -H i -C -S 1
+car,eps-greedy4,921,644,46,14,1.2396694421768188,weka.classifiers.functions.MultilayerPerceptron,-L 0.2981183808636368 -M 0.41701140722554286 -H i -C -S 1
+car,eps-greedy4,967,690,46,15,1.2396694421768188,weka.classifiers.functions.MultilayerPerceptron,-L 0.2981183808636368 -M 0.41701140722554286 -H i -C -S 1
+car,eps-greedy4,1013,736,46,16,1.2396694421768188,weka.classifiers.functions.MultilayerPerceptron,-L 0.2981183808636368 -M 0.41701140722554286 -H i -C -S 1
+car,eps-greedy4,1059,782,46,17,1.2396694421768188,weka.classifiers.functions.MultilayerPerceptron,-L 0.2981183808636368 -M 0.41701140722554286 -H i -C -S 1
+car,eps-greedy4,1105,828,46,18,1.2396694421768188,weka.classifiers.functions.MultilayerPerceptron,-L 0.2981183808636368 -M 0.41701140722554286 -H i -C -S 1
+car,eps-greedy4,1151,874,46,19,1.0743801593780518,weka.classifiers.functions.SMO,-C 1.394863509131239 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.3973144309210856"
+car,eps-greedy4,1198,920,46,20,1.0743801593780518,weka.classifiers.functions.SMO,-C 1.394863509131239 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.3973144309210856"
+car,eps-greedy4,1244,966,46,21,1.0743801593780518,weka.classifiers.functions.SMO,-C 1.394863509131239 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.3973144309210856"
+car,eps-greedy4,1290,1012,46,22,1.0743801593780518,weka.classifiers.functions.SMO,-C 1.394863509131239 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.3973144309210856"
+car,eps-greedy4,1336,1058,46,23,1.0743801593780518,weka.classifiers.functions.SMO,-C 1.394863509131239 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.3973144309210856"
+car,eps-greedy4,1382,1104,46,24,1.0743801593780518,weka.classifiers.functions.SMO,-C 1.394863509131239 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.3973144309210856"
+car,eps-greedy4,1428,1150,46,25,1.0743801593780518,weka.classifiers.functions.SMO,-C 1.394863509131239 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.3973144309210856"
+car,eps-greedy4,1474,1196,46,26,1.0743801593780518,weka.classifiers.functions.SMO,-C 1.394863509131239 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.3973144309210856"
+car,eps-greedy4,1520,1242,46,27,1.0743801593780518,weka.classifiers.functions.SMO,-C 1.394863509131239 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.3973144309210856"
+car,eps-greedy4,1566,1288,46,28,1.0743801593780518,weka.classifiers.functions.SMO,-C 1.394863509131239 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.3973144309210856"
+car,eps-greedy4,1612,1334,46,29,1.0743801593780518,weka.classifiers.functions.SMO,-C 1.394863509131239 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.3973144309210856"
+car,eps-greedy4,1658,1380,46,30,1.0743801593780518,weka.classifiers.functions.SMO,-C 1.394863509131239 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.3973144309210856"
+car,eps-greedy4,1704,1426,46,31,1.0743801593780518,weka.classifiers.functions.SMO,-C 1.394863509131239 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.3973144309210856"
+car,eps-greedy4,1750,1472,46,32,1.0743801593780518,weka.classifiers.functions.SMO,-C 1.394863509131239 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.3973144309210856"
+car,eps-greedy4,1796,1518,46,33,1.0743801593780518,weka.classifiers.functions.SMO,-C 1.394863509131239 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.3973144309210856"
+car,eps-greedy4,1842,1564,46,34,1.0743801593780518,weka.classifiers.functions.SMO,-C 1.394863509131239 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.3973144309210856"
+car,eps-greedy4,1889,1610,46,35,1.0743801593780518,weka.classifiers.functions.SMO,-C 1.394863509131239 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.3973144309210856"
+car,eps-greedy4,1935,1656,46,36,1.0743801593780518,weka.classifiers.functions.SMO,-C 1.394863509131239 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.3973144309210856"
+car,eps-greedy4,1981,1702,46,37,1.0743801593780518,weka.classifiers.functions.SMO,-C 1.394863509131239 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.3973144309210856"
+car,eps-greedy4,2027,1748,46,38,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.2981183808636368 -M 0.41701140722554286 -H i -C -S 1
+car,eps-greedy4,2073,1794,46,39,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.2981183808636368 -M 0.41701140722554286 -H i -C -S 1
+car,eps-greedy4,2119,1840,46,40,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.2981183808636368 -M 0.41701140722554286 -H i -C -S 1
+car,eps-greedy4,2165,1886,46,41,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.2981183808636368 -M 0.41701140722554286 -H i -C -S 1
+car,eps-greedy4,2211,1932,46,42,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.2981183808636368 -M 0.41701140722554286 -H i -C -S 1
+car,eps-greedy4,2257,1978,46,43,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.2981183808636368 -M 0.41701140722554286 -H i -C -S 1
+car,eps-greedy4,2303,2024,46,44,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.2981183808636368 -M 0.41701140722554286 -H i -C -S 1
+car,eps-greedy4,2349,2070,46,45,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.2981183808636368 -M 0.41701140722554286 -H i -C -S 1
+car,eps-greedy4,2395,2116,46,46,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.2981183808636368 -M 0.41701140722554286 -H i -C -S 1
+car,eps-greedy4,2441,2162,46,47,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.2981183808636368 -M 0.41701140722554286 -H i -C -S 1
+car,eps-greedy4,2487,2208,46,48,0.8264462947845459,weka.classifiers.functions.MultilayerPerceptron,-L 0.2981183808636368 -M 0.41701140722554286 -H i -C -S 1
+car,eps-greedy4,2533,2254,46,49,0.6611570119857788,weka.classifiers.functions.SMO,-C 0.5945192389599618 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.317162748357633"
+car,eps-greedy4,2579,2300,46,50,0.6611570119857788,weka.classifiers.functions.SMO,-C 0.5945192389599618 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.317162748357633"
+car,eps-greedy4,2626,2346,46,51,0.6611570119857788,weka.classifiers.functions.SMO,-C 0.5945192389599618 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.317162748357633"
+car,eps-greedy4,2672,2392,46,52,0.6611570119857788,weka.classifiers.functions.SMO,-C 0.5945192389599618 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.317162748357633"
+car,eps-greedy4,2718,2438,46,53,0.6611570119857788,weka.classifiers.functions.SMO,-C 0.5945192389599618 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.317162748357633"
+car,eps-greedy4,2764,2484,46,54,0.6611570119857788,weka.classifiers.functions.SMO,-C 0.5945192389599618 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.317162748357633"
+car,eps-greedy4,2810,2530,46,55,0.6611570119857788,weka.classifiers.functions.SMO,-C 0.5945192389599618 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.317162748357633"
+car,eps-greedy4,2856,2576,46,56,0.6611570119857788,weka.classifiers.functions.SMO,-C 0.5945192389599618 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.317162748357633"
+car,eps-greedy4,2902,2622,46,57,0.6611570119857788,weka.classifiers.functions.SMO,-C 0.5945192389599618 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.317162748357633"
+car,eps-greedy4,2948,2668,46,58,0.6611570119857788,weka.classifiers.functions.SMO,-C 0.5945192389599618 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.317162748357633"
+car,eps-greedy4,2994,2714,46,59,0.6611570119857788,weka.classifiers.functions.SMO,-C 0.5945192389599618 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.317162748357633"
+car,eps-greedy4,3040,2760,46,60,0.6611570119857788,weka.classifiers.functions.SMO,-C 0.5945192389599618 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 4.317162748357633"
+car,eps-greedy4,785,490,49,10,1.4876033067703247,weka.classifiers.functions.SMO,-C 1.4504793967453833 -N 1 -M -K "weka.classifiers.functions.supportVector.RBFKernel -G 0.05898454031753448"
+car,eps-greedy4,834,539,49,11,1.4876033067703247,weka.classifiers.functions.SMO,-C 1.4504793967453833 -N 1 -M -K "weka.classifiers.functions.supportVector.RBFKernel -G 0.05898454031753448"
+car,eps-greedy4,883,588,49,12,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,932,637,49,13,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,981,686,49,14,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,1030,735,49,15,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,1079,784,49,16,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,1128,833,49,17,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,1177,882,49,18,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,1226,931,49,19,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,1275,980,49,20,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,1324,1029,49,21,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,1373,1078,49,22,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,1422,1127,49,23,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,1471,1176,49,24,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,1520,1225,49,25,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,1570,1274,49,26,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,1619,1323,49,27,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,1668,1372,49,28,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,1717,1421,49,29,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,1766,1470,49,30,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,1815,1519,49,31,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,1864,1568,49,32,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,1913,1617,49,33,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,1962,1666,49,34,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,2011,1715,49,35,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,2060,1764,49,36,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,2109,1813,49,37,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,2158,1862,49,38,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,2207,1911,49,39,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,2257,1960,49,40,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,2306,2009,49,41,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,2355,2058,49,42,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,2404,2107,49,43,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,2453,2156,49,44,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,2502,2205,49,45,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,2551,2254,49,46,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,2600,2303,49,47,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,2649,2352,49,48,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,2698,2401,49,49,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,2747,2450,49,50,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,2796,2499,49,51,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,2845,2548,49,52,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,2894,2597,49,53,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,2943,2646,49,54,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,2993,2695,49,55,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,3042,2744,49,56,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,3091,2793,49,57,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,3140,2842,49,58,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,3189,2891,49,59,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,3238,2940,49,60,0.41322314739227295,weka.classifiers.functions.MultilayerPerceptron,-L 0.5301795920009648 -M 0.20876285820580912 -H i -R -S 1
+car,eps-greedy4,833,520,52,10,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,885,572,52,11,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,937,624,52,12,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,989,676,52,13,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,1041,728,52,14,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,1093,780,52,15,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,1145,832,52,16,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,1197,884,52,17,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,1249,936,52,18,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,1301,988,52,19,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,1353,1040,52,20,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,1406,1092,52,21,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,1458,1144,52,22,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,1510,1196,52,23,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,1562,1248,52,24,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,1614,1300,52,25,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,1666,1352,52,26,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,1718,1404,52,27,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,1770,1456,52,28,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,1822,1508,52,29,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,1874,1560,52,30,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,1926,1612,52,31,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,1978,1664,52,32,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,2030,1716,52,33,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,2082,1768,52,34,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,2134,1820,52,35,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,2187,1872,52,36,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,2239,1924,52,37,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,2291,1976,52,38,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,2343,2028,52,39,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,2395,2080,52,40,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,2447,2132,52,41,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,2499,2184,52,42,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,2551,2236,52,43,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,2603,2288,52,44,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,2655,2340,52,45,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,2707,2392,52,46,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,2759,2444,52,47,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,2811,2496,52,48,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,2864,2548,52,49,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,2916,2600,52,50,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,2968,2652,52,51,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,3020,2704,52,52,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,3072,2756,52,53,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,3124,2808,52,54,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,3176,2860,52,55,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,3228,2912,52,56,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,3280,2964,52,57,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,3332,3016,52,58,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,3384,3068,52,59,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"
+car,eps-greedy4,3437,3120,52,60,0.27548208832740784,weka.classifiers.functions.SMO,-C 0.7197421869078139 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.6265576713366916"

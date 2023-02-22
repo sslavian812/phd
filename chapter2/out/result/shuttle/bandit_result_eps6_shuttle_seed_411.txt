@@ -1,0 +1,359 @@
+shuttle,eps-greedy6,254,60,30,2,0.04597701132297516,weka.classifiers.trees.J48,-A -M 2 -C 0.21357451844302777
+shuttle,eps-greedy6,284,90,30,3,0.04597701132297516,weka.classifiers.trees.J48,-A -M 2 -C 0.21357451844302777
+shuttle,eps-greedy6,376,120,30,4,0.04597701132297516,weka.classifiers.trees.J48,-A -M 2 -C 0.21357451844302777
+shuttle,eps-greedy6,417,150,30,5,0.04597701132297516,weka.classifiers.trees.J48,-A -M 2 -C 0.21357451844302777
+shuttle,eps-greedy6,449,180,30,6,0.04597701132297516,weka.classifiers.trees.J48,-A -M 2 -C 0.21357451844302777
+shuttle,eps-greedy6,483,210,30,7,0.04597701132297516,weka.classifiers.trees.J48,-A -M 2 -C 0.21357451844302777
+shuttle,eps-greedy6,518,240,30,8,0.04597701132297516,weka.classifiers.trees.J48,-A -M 2 -C 0.21357451844302777
+shuttle,eps-greedy6,551,270,30,9,0.04597701132297516,weka.classifiers.trees.J48,-A -M 2 -C 0.21357451844302777
+shuttle,eps-greedy6,582,300,30,10,0.04597701132297516,weka.classifiers.trees.J48,-A -M 2 -C 0.21357451844302777
+shuttle,eps-greedy6,614,330,30,11,0.04597701132297516,weka.classifiers.trees.J48,-A -M 2 -C 0.21357451844302777
+shuttle,eps-greedy6,644,360,30,12,0.04597701132297516,weka.classifiers.trees.J48,-A -M 2 -C 0.21357451844302777
+shuttle,eps-greedy6,674,390,30,13,0.04597701132297516,weka.classifiers.trees.J48,-A -M 2 -C 0.21357451844302777
+shuttle,eps-greedy6,710,420,30,14,0.04597701132297516,weka.classifiers.trees.J48,-A -M 2 -C 0.21357451844302777
+shuttle,eps-greedy6,750,450,30,15,0.04597701132297516,weka.classifiers.trees.J48,-A -M 2 -C 0.21357451844302777
+shuttle,eps-greedy6,781,480,30,16,0.04597701132297516,weka.classifiers.trees.J48,-A -M 2 -C 0.21357451844302777
+shuttle,eps-greedy6,812,510,30,17,0.04597701132297516,weka.classifiers.trees.J48,-A -M 2 -C 0.21357451844302777
+shuttle,eps-greedy6,844,540,30,18,0.04137931019067764,weka.classifiers.trees.J48,-U -J -M 3
+shuttle,eps-greedy6,875,570,30,19,0.04137931019067764,weka.classifiers.trees.J48,-U -J -M 3
+shuttle,eps-greedy6,910,600,30,20,0.04137931019067764,weka.classifiers.trees.J48,-U -J -M 3
+shuttle,eps-greedy6,941,630,30,21,0.03940886631608009,weka.classifiers.trees.J48,-U -J -M 3
+shuttle,eps-greedy6,971,660,30,22,0.03940886631608009,weka.classifiers.trees.J48,-U -J -M 3
+shuttle,eps-greedy6,1001,690,30,23,0.03940886631608009,weka.classifiers.trees.J48,-U -J -M 3
+shuttle,eps-greedy6,1032,720,30,24,0.03940886631608009,weka.classifiers.trees.J48,-U -J -M 3
+shuttle,eps-greedy6,1062,750,30,25,0.03940886631608009,weka.classifiers.trees.J48,-U -J -M 3
+shuttle,eps-greedy6,1093,780,30,26,0.03940886631608009,weka.classifiers.trees.J48,-U -J -M 3
+shuttle,eps-greedy6,1133,810,30,27,0.03940886631608009,weka.classifiers.trees.J48,-U -J -M 3
+shuttle,eps-greedy6,1165,840,30,28,0.03940886631608009,weka.classifiers.trees.J48,-U -J -M 3
+shuttle,eps-greedy6,1218,870,30,29,0.03940886631608009,weka.classifiers.trees.J48,-U -J -M 3
+shuttle,eps-greedy6,1249,900,30,30,0.03940886631608009,weka.classifiers.trees.J48,-U -J -M 3
+shuttle,eps-greedy6,1279,930,30,31,0.03940886631608009,weka.classifiers.trees.J48,-U -J -M 3
+shuttle,eps-greedy6,1310,960,30,32,0.03940886631608009,weka.classifiers.trees.J48,-U -J -M 3
+shuttle,eps-greedy6,1340,990,30,33,0.031609196215867996,weka.classifiers.trees.J48,-O -A -S -M 1
+shuttle,eps-greedy6,1370,1020,30,34,0.031609196215867996,weka.classifiers.trees.J48,-O -A -S -M 1
+shuttle,eps-greedy6,1401,1050,30,35,0.031609196215867996,weka.classifiers.trees.J48,-O -A -S -M 1
+shuttle,eps-greedy6,1432,1080,30,36,0.031609196215867996,weka.classifiers.trees.J48,-O -A -S -M 1
+shuttle,eps-greedy6,1463,1110,30,37,0.031609196215867996,weka.classifiers.trees.J48,-O -A -S -M 1
+shuttle,eps-greedy6,1493,1140,30,38,0.031609196215867996,weka.classifiers.trees.J48,-O -A -S -M 1
+shuttle,eps-greedy6,1528,1170,30,39,0.029885057359933853,weka.classifiers.trees.J48,-O -A -S -M 1
+shuttle,eps-greedy6,1558,1200,30,40,0.029885057359933853,weka.classifiers.trees.J48,-O -A -S -M 1
+shuttle,eps-greedy6,1593,1230,30,41,0.029885057359933853,weka.classifiers.trees.J48,-O -A -S -M 1
+shuttle,eps-greedy6,1623,1260,30,42,0.029885057359933853,weka.classifiers.trees.J48,-O -A -S -M 1
+shuttle,eps-greedy6,1654,1290,30,43,0.029885057359933853,weka.classifiers.trees.J48,-O -A -S -M 1
+shuttle,eps-greedy6,1684,1320,30,44,0.029885057359933853,weka.classifiers.trees.J48,-O -A -S -M 1
+shuttle,eps-greedy6,1714,1350,30,45,0.029885057359933853,weka.classifiers.trees.J48,-O -A -S -M 1
+shuttle,eps-greedy6,1744,1380,30,46,0.029885057359933853,weka.classifiers.trees.J48,-O -A -S -M 1
+shuttle,eps-greedy6,1775,1410,30,47,0.029885057359933853,weka.classifiers.trees.J48,-O -A -S -M 1
+shuttle,eps-greedy6,1805,1440,30,48,0.029885057359933853,weka.classifiers.trees.J48,-O -A -S -M 1
+shuttle,eps-greedy6,1835,1470,30,49,0.029885057359933853,weka.classifiers.trees.J48,-O -A -S -M 1
+shuttle,eps-greedy6,1865,1500,30,50,0.029885057359933853,weka.classifiers.trees.J48,-O -A -S -M 1
+shuttle,eps-greedy6,1896,1530,30,51,0.029885057359933853,weka.classifiers.trees.J48,-O -A -S -M 1
+shuttle,eps-greedy6,1926,1560,30,52,0.029885057359933853,weka.classifiers.trees.J48,-O -A -S -M 1
+shuttle,eps-greedy6,1957,1590,30,53,0.029885057359933853,weka.classifiers.trees.J48,-O -A -S -M 1
+shuttle,eps-greedy6,1993,1620,30,54,0.029885057359933853,weka.classifiers.trees.J48,-O -A -S -M 1
+shuttle,eps-greedy6,2026,1650,30,55,0.029885057359933853,weka.classifiers.trees.J48,-O -A -S -M 1
+shuttle,eps-greedy6,2056,1680,30,56,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2087,1710,30,57,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2117,1740,30,58,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2148,1770,30,59,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2178,1800,30,60,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2209,1830,30,61,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2239,1860,30,62,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2278,1890,30,63,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2335,1920,30,64,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2371,1950,30,65,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2402,1980,30,66,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2433,2010,30,67,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2463,2040,30,68,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2494,2070,30,69,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2525,2100,30,70,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2555,2130,30,71,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2586,2160,30,72,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2642,2190,30,73,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2672,2220,30,74,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2703,2250,30,75,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2733,2280,30,76,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2764,2310,30,77,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2794,2340,30,78,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2825,2370,30,79,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2856,2400,30,80,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2886,2430,30,81,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2918,2460,30,82,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2949,2490,30,83,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,2979,2520,30,84,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,3009,2550,30,85,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,3039,2580,30,86,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,3070,2610,30,87,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,3100,2640,30,88,0.026819923892617226,weka.classifiers.trees.RandomForest,-I 10 -K 0 -depth 0
+shuttle,eps-greedy6,3130,2670,30,89,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3160,2700,30,90,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3191,2730,30,91,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3221,2760,30,92,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3251,2790,30,93,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3281,2820,30,94,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3312,2850,30,95,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3342,2880,30,96,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3372,2910,30,97,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3402,2940,30,98,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3432,2970,30,99,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3463,3000,30,100,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3493,3030,30,101,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3523,3060,30,102,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3553,3090,30,103,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3584,3120,30,104,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3614,3150,30,105,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3644,3180,30,106,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3674,3210,30,107,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3705,3240,30,108,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3735,3270,30,109,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3765,3300,30,110,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3795,3330,30,111,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3825,3360,30,112,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3856,3390,30,113,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3886,3420,30,114,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3916,3450,30,115,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3947,3480,30,116,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,3977,3510,30,117,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4007,3540,30,118,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4037,3570,30,119,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4068,3600,30,120,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4098,3630,30,121,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4128,3660,30,122,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4158,3690,30,123,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4188,3720,30,124,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4219,3750,30,125,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4249,3780,30,126,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4279,3810,30,127,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4309,3840,30,128,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4339,3870,30,129,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4370,3900,30,130,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4400,3930,30,131,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4430,3960,30,132,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4461,3990,30,133,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4491,4020,30,134,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4522,4050,30,135,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4552,4080,30,136,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4582,4110,30,137,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4612,4140,30,138,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4643,4170,30,139,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4674,4200,30,140,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4704,4230,30,141,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4735,4260,30,142,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4765,4290,30,143,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4797,4320,30,144,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4828,4350,30,145,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4861,4380,30,146,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4892,4410,30,147,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4922,4440,30,148,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4953,4470,30,149,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,4983,4500,30,150,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,5014,4530,30,151,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,5046,4560,30,152,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,5077,4590,30,153,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,5113,4620,30,154,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,5143,4650,30,155,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,5173,4680,30,156,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,5204,4710,30,157,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,5234,4740,30,158,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,5265,4770,30,159,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,5295,4800,30,160,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,5325,4830,30,161,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,5355,4860,30,162,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,5385,4890,30,163,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,5416,4920,30,164,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,5446,4950,30,165,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,5476,4980,30,166,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,5506,5010,30,167,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,5536,5040,30,168,0.02298850566148758,weka.classifiers.trees.J48,-U -B -J -A -M 1
+shuttle,eps-greedy6,5567,5070,30,169,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,5597,5100,30,170,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,5627,5130,30,171,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,5657,5160,30,172,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,5688,5190,30,173,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,5719,5220,30,174,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,5749,5250,30,175,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,5779,5280,30,176,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,5810,5310,30,177,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,5840,5340,30,178,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,5870,5370,30,179,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,5900,5400,30,180,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,5930,5430,30,181,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,5960,5460,30,182,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,5991,5490,30,183,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6021,5520,30,184,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6051,5550,30,185,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6081,5580,30,186,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6111,5610,30,187,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6142,5640,30,188,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6172,5670,30,189,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6202,5700,30,190,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6232,5730,30,191,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6262,5760,30,192,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6293,5790,30,193,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6323,5820,30,194,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6353,5850,30,195,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6383,5880,30,196,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6413,5910,30,197,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6444,5940,30,198,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6474,5970,30,199,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6504,6000,30,200,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6534,6030,30,201,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6564,6060,30,202,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6595,6090,30,203,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6625,6120,30,204,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6655,6150,30,205,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6685,6180,30,206,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6715,6210,30,207,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6745,6240,30,208,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6775,6270,30,209,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6806,6300,30,210,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6836,6330,30,211,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6866,6360,30,212,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6896,6390,30,213,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6926,6420,30,214,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6956,6450,30,215,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,6987,6480,30,216,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7017,6510,30,217,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7047,6540,30,218,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7077,6570,30,219,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7107,6600,30,220,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7137,6630,30,221,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7167,6660,30,222,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7198,6690,30,223,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7228,6720,30,224,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7258,6750,30,225,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7288,6780,30,226,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7318,6810,30,227,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7348,6840,30,228,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7379,6870,30,229,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7409,6900,30,230,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7439,6930,30,231,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7469,6960,30,232,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7499,6990,30,233,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7530,7020,30,234,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7560,7050,30,235,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7590,7080,30,236,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7620,7110,30,237,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7650,7140,30,238,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7680,7170,30,239,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7710,7200,30,240,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7741,7230,30,241,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7771,7260,30,242,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7801,7290,30,243,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7831,7320,30,244,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7861,7350,30,245,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7892,7380,30,246,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7922,7410,30,247,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7952,7440,30,248,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,7982,7470,30,249,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8012,7500,30,250,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8042,7530,30,251,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8073,7560,30,252,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8103,7590,30,253,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8133,7620,30,254,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8163,7650,30,255,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8193,7680,30,256,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8225,7710,30,257,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8255,7740,30,258,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8285,7770,30,259,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8315,7800,30,260,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8345,7830,30,261,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8375,7860,30,262,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8406,7890,30,263,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8436,7920,30,264,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8466,7950,30,265,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8496,7980,30,266,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8526,8010,30,267,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8556,8040,30,268,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8587,8070,30,269,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8617,8100,30,270,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8647,8130,30,271,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8678,8160,30,272,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8708,8190,30,273,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8738,8220,30,274,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8768,8250,30,275,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8798,8280,30,276,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8828,8310,30,277,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8859,8340,30,278,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8889,8370,30,279,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8919,8400,30,280,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8949,8430,30,281,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,8979,8460,30,282,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9010,8490,30,283,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9040,8520,30,284,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9070,8550,30,285,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9100,8580,30,286,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9130,8610,30,287,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9161,8640,30,288,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9191,8670,30,289,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9221,8700,30,290,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9251,8730,30,291,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9281,8760,30,292,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9311,8790,30,293,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9341,8820,30,294,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9372,8850,30,295,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9402,8880,30,296,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9432,8910,30,297,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9462,8940,30,298,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9492,8970,30,299,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9522,9000,30,300,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9553,9030,30,301,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9583,9060,30,302,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9613,9090,30,303,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9643,9120,30,304,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9673,9150,30,305,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9704,9180,30,306,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9734,9210,30,307,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9764,9240,30,308,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9794,9270,30,309,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9825,9300,30,310,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9855,9330,30,311,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9885,9360,30,312,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9915,9390,30,313,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9945,9420,30,314,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,9975,9450,30,315,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10006,9480,30,316,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10036,9510,30,317,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10066,9540,30,318,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10096,9570,30,319,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10126,9600,30,320,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10157,9630,30,321,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10187,9660,30,322,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10217,9690,30,323,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10247,9720,30,324,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10277,9750,30,325,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10307,9780,30,326,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10338,9810,30,327,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10368,9840,30,328,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10398,9870,30,329,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10428,9900,30,330,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10458,9930,30,331,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10489,9960,30,332,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10519,9990,30,333,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10549,10020,30,334,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10579,10050,30,335,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10609,10080,30,336,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10639,10110,30,337,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10670,10140,30,338,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10700,10170,30,339,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10730,10200,30,340,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10760,10230,30,341,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10791,10260,30,342,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10822,10290,30,343,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10853,10320,30,344,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10883,10350,30,345,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10913,10380,30,346,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10943,10410,30,347,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,10973,10440,30,348,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,11004,10470,30,349,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,11034,10500,30,350,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,11064,10530,30,351,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,11094,10560,30,352,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,11124,10590,30,353,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,11154,10620,30,354,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,11185,10650,30,355,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,11215,10680,30,356,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,11245,10710,30,357,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,11275,10740,30,358,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,11305,10770,30,359,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7
+shuttle,eps-greedy6,11335,10800,30,360,0.020114943385124207,weka.classifiers.trees.RandomForest,-I 13 -K 8 -depth 7

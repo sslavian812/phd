@@ -1,0 +1,218 @@
+ExpName, AlgoName, Timeout, ErrorEstimate, BestAlgo, BestParams
+semeion,autoweka,240,25.892857,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+semeion,autoweka,300,25.892857,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+semeion,autoweka,360,25.892857,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+semeion,autoweka,420,25.892857,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+semeion,autoweka,480,25.892857,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+semeion,autoweka,540,25.892857,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+semeion,autoweka,600,25.892857,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+semeion,autoweka,660,25.892857,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+semeion,autoweka,720,25.892857,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+semeion,autoweka,780,25.892857,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+semeion,autoweka,841,25.892857,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+semeion,autoweka,900,25.892857,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+semeion,autoweka,960,25.892857,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+semeion,autoweka,1020,25.892857,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+semeion,autoweka,1081,25.892857,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+semeion,autoweka,1141,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,1200,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,1260,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,1321,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,1380,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,1440,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,1500,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,1561,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,1620,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,1680,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,1740,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,1800,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,1860,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,1920,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,1980,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,2041,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,2101,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,2160,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,2221,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,2280,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,2340,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,2400,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,2460,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,2520,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,2581,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,2640,8.059846,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,2702,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,2761,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,2821,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,2880,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,2941,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,3000,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,3061,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,3121,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,3182,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,3241,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,3301,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,3361,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,3421,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,3481,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,3542,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,3601,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,3662,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,3722,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,3781,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,3841,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,3901,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,3961,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,4021,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,4083,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,4141,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,4200,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,4261,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,4321,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,4381,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,4441,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,4501,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,4560,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,4621,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,4681,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,4741,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,4801,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,4861,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,4921,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,4982,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,5041,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,5101,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,5161,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,5221,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,5281,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,5341,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,5401,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,5461,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,5522,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,5580,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,5640,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,5701,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,5760,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,5821,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,5881,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,5940,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,6001,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,6061,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,6122,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,6181,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,6240,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,6301,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,6361,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,6422,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,6481,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,6541,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,6601,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,6661,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,6721,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,6782,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,6840,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,6901,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,6961,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,7021,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,7081,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,7142,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,7201,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,7261,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,7320,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,7381,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,7441,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,7501,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,7561,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,7621,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,7682,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,7741,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,7801,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,7861,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,7921,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,7981,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,8041,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,8101,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,8160,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,8220,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,8280,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,8340,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,8401,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,8460,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,8520,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,8581,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,8641,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,8700,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,8761,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,8821,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,8880,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,8940,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,9000,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,9061,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,9121,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,9181,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,9242,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,9301,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,9361,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,9421,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,9480,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,9540,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,9601,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,9661,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,9721,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,9781,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,9841,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,9901,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,9960,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,10020,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,10080,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,10141,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,10200,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,10261,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,10321,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,10380,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,10440,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,10500,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,10560,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,10621,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,10680,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,10740,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,10800,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,10861,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,10921,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,10980,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,11041,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,11100,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,11160,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,11221,7.692131,weka.classifiers.functions.Logistic,-R 6.070976135715333E-4
+semeion,autoweka,11281,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,11340,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,11400,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,11461,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,11521,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,11581,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,11641,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,11701,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,11763,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,11821,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,11882,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,11941,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,12001,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,12060,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,12121,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,12181,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,12240,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,12300,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,12361,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,12421,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,12481,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,12541,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,12600,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,12660,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,12720,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,12780,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,12840,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,12901,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,12961,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,13021,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,13080,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,13141,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+semeion,autoweka,13200,5.90182,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1

@@ -1,0 +1,39 @@
+800,softmax50,241,60,30,2,8.035714149475098,weka.classifiers.functions.SMO,-C 0.9446535997776953 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.976813090174298"
+800,softmax50,271,90,30,3,8.035714149475098,weka.classifiers.functions.SMO,-C 0.9446535997776953 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.976813090174298"
+800,softmax50,301,120,30,4,8.035714149475098,weka.classifiers.functions.SMO,-C 0.9446535997776953 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 2.976813090174298"
+800,softmax50,331,150,30,5,7.857142925262451,weka.classifiers.trees.RandomForest,-I 36 -K 6 -depth 6
+800,softmax50,361,180,30,6,7.857142925262451,weka.classifiers.trees.RandomForest,-I 36 -K 6 -depth 6
+800,softmax50,392,210,30,7,7.857142925262451,weka.classifiers.trees.RandomForest,-I 36 -K 6 -depth 6
+800,softmax50,422,240,30,8,7.857142925262451,weka.classifiers.trees.RandomForest,-I 36 -K 6 -depth 6
+800,softmax50,452,270,30,9,7.857142925262451,weka.classifiers.trees.RandomForest,-I 36 -K 6 -depth 6
+800,softmax50,482,300,30,10,7.857142925262451,weka.classifiers.trees.RandomForest,-I 36 -K 6 -depth 6
+800,softmax50,512,330,30,11,7.857142925262451,weka.classifiers.trees.RandomForest,-I 36 -K 6 -depth 6
+800,softmax50,542,360,30,12,7.857142925262451,weka.classifiers.trees.RandomForest,-I 36 -K 6 -depth 6
+800,softmax50,572,390,30,13,7.857142925262451,weka.classifiers.trees.RandomForest,-I 36 -K 6 -depth 6
+800,softmax50,603,420,30,14,7.857142925262451,weka.classifiers.trees.RandomForest,-I 36 -K 6 -depth 6
+800,softmax50,633,450,30,15,7.857142925262451,weka.classifiers.trees.RandomForest,-I 36 -K 6 -depth 6
+800,softmax50,663,480,30,16,7.6785712242126465,weka.classifiers.functions.SMO,-C 1.3091157136896254 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.3369243583484547 -L"
+800,softmax50,693,510,30,17,7.6785712242126465,weka.classifiers.functions.SMO,-C 1.3091157136896254 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.3369243583484547 -L"
+800,softmax50,723,540,30,18,7.6785712242126465,weka.classifiers.functions.SMO,-C 1.3091157136896254 -N 0 -M -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.3369243583484547 -L"
+800,softmax50,753,570,30,19,6.4285712242126465,weka.classifiers.functions.SMO,-C 1.414355202393328 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 1.7776325959251809 -L"
+800,softmax50,783,600,30,20,6.4285712242126465,weka.classifiers.functions.SMO,-C 1.414355202393328 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 1.7776325959251809 -L"
+800,softmax50,814,630,30,21,6.4285712242126465,weka.classifiers.functions.SMO,-C 1.414355202393328 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 1.7776325959251809 -L"
+800,softmax50,844,660,30,22,6.4285712242126465,weka.classifiers.functions.SMO,-C 1.414355202393328 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 1.7776325959251809 -L"
+800,softmax50,874,690,30,23,6.4285712242126465,weka.classifiers.functions.SMO,-C 1.414355202393328 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 1.7776325959251809 -L"
+800,softmax50,904,720,30,24,6.4285712242126465,weka.classifiers.functions.SMO,-C 1.414355202393328 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 1.7776325959251809 -L"
+800,softmax50,934,750,30,25,6.4285712242126465,weka.classifiers.functions.SMO,-C 1.414355202393328 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 1.7776325959251809 -L"
+800,softmax50,965,780,30,26,6.4285712242126465,weka.classifiers.functions.SMO,-C 1.414355202393328 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 1.7776325959251809 -L"
+800,softmax50,995,810,30,27,6.4285712242126465,weka.classifiers.functions.SMO,-C 1.414355202393328 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 1.7776325959251809 -L"
+800,softmax50,1025,840,30,28,6.4285712242126465,weka.classifiers.functions.SMO,-C 1.414355202393328 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 1.7776325959251809 -L"
+800,softmax50,1055,870,30,29,6.4285712242126465,weka.classifiers.functions.SMO,-C 1.414355202393328 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 1.7776325959251809 -L"
+800,softmax50,1085,900,30,30,6.4285712242126465,weka.classifiers.functions.SMO,-C 1.414355202393328 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 1.7776325959251809 -L"
+800,softmax50,1115,930,30,31,6.4285712242126465,weka.classifiers.functions.SMO,-C 1.414355202393328 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 1.7776325959251809 -L"
+800,softmax50,1145,960,30,32,6.4285712242126465,weka.classifiers.functions.SMO,-C 1.414355202393328 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 1.7776325959251809 -L"
+800,softmax50,1176,990,30,33,6.4285712242126465,weka.classifiers.functions.SMO,-C 1.414355202393328 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 1.7776325959251809 -L"
+800,softmax50,1206,1020,30,34,6.4285712242126465,weka.classifiers.functions.SMO,-C 1.414355202393328 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 1.7776325959251809 -L"
+800,softmax50,1236,1050,30,35,6.4285712242126465,weka.classifiers.functions.SMO,-C 1.414355202393328 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 1.7776325959251809 -L"
+800,softmax50,1266,1080,30,36,6.4285712242126465,weka.classifiers.functions.SMO,-C 1.414355202393328 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 1.7776325959251809 -L"
+800,softmax50,1296,1110,30,37,6.4285712242126465,weka.classifiers.functions.SMO,-C 1.414355202393328 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 1.7776325959251809 -L"
+800,softmax50,1326,1140,30,38,6.4285712242126465,weka.classifiers.functions.SMO,-C 1.414355202393328 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 1.7776325959251809 -L"
+800,softmax50,1357,1170,30,39,6.4285712242126465,weka.classifiers.functions.SMO,-C 1.414355202393328 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 1.7776325959251809 -L"
+800,softmax50,1387,1200,30,40,6.4285712242126465,weka.classifiers.functions.SMO,-C 1.414355202393328 -N 0 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 1.7776325959251809 -L"

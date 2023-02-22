@@ -1,0 +1,16 @@
+Algorithms:
+LogisticRegression
+RandomForest
+kNN
+SVM
+
+Bandit algorithm: UCB1
+Bandit iterations: 10
+Bandit iteration budget: 30000
+All time (seconds): 424
+
+Multi-armed bandit result:
+Best algorithm: weka.classifiers.functions.SMO
+Best hyperparameters: -C 1.0968095874272832 -N 0 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.5835724333545724 -L"
+Best error estimate: 0.36730945110321045
+

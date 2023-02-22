@@ -1,0 +1,8 @@
+769,softmax50,241,60,30,2,4.0,weka.classifiers.trees.RandomForest,-I 45 -K 27 -depth 5
+769,softmax50,271,90,30,3,4.0,weka.classifiers.trees.RandomForest,-I 45 -K 27 -depth 5
+769,softmax50,301,120,30,4,4.0,weka.classifiers.trees.RandomForest,-I 45 -K 27 -depth 5
+769,softmax50,331,150,30,5,4.0,weka.classifiers.trees.RandomForest,-I 45 -K 27 -depth 5
+769,softmax50,362,180,30,6,4.0,weka.classifiers.trees.RandomForest,-I 45 -K 27 -depth 5
+769,softmax50,392,210,30,7,4.0,weka.classifiers.trees.RandomForest,-I 45 -K 27 -depth 5
+769,softmax50,422,240,30,8,4.0,weka.classifiers.trees.RandomForest,-I 45 -K 27 -depth 5
+769,softmax50,452,270,30,9,4.0,weka.classifiers.trees.RandomForest,-I 45 -K 27 -depth 5

@@ -1,0 +1,1 @@
+1435,softmax50,241,60,30,2,0.5813953280448914,weka.classifiers.functions.SMO,-C 1.1411943172949812 -N 1 -K "weka.classifiers.functions.supportVector.Puk -S 2.380269322587582 -O 0.9724313324811381"

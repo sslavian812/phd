@@ -1,0 +1,13 @@
+526,softmax50,241,60,30,2,3.846153736114502,weka.classifiers.functions.MultilayerPerceptron,-L 0.9021163680618762 -M 0.21316510286002677 -B -H i -C -S 1
+526,softmax50,271,90,30,3,3.846153736114502,weka.classifiers.functions.MultilayerPerceptron,-L 0.9021163680618762 -M 0.21316510286002677 -B -H i -C -S 1
+526,softmax50,301,120,30,4,3.846153736114502,weka.classifiers.functions.MultilayerPerceptron,-L 0.9021163680618762 -M 0.21316510286002677 -B -H i -C -S 1
+526,softmax50,331,150,30,5,3.846153736114502,weka.classifiers.functions.MultilayerPerceptron,-L 0.9021163680618762 -M 0.21316510286002677 -B -H i -C -S 1
+526,softmax50,362,180,30,6,3.846153736114502,weka.classifiers.functions.MultilayerPerceptron,-L 0.9021163680618762 -M 0.21316510286002677 -B -H i -C -S 1
+526,softmax50,392,210,30,7,3.846153736114502,weka.classifiers.functions.MultilayerPerceptron,-L 0.9021163680618762 -M 0.21316510286002677 -B -H i -C -S 1
+526,softmax50,422,240,30,8,3.846153736114502,weka.classifiers.functions.MultilayerPerceptron,-L 0.9021163680618762 -M 0.21316510286002677 -B -H i -C -S 1
+526,softmax50,452,270,30,9,3.846153736114502,weka.classifiers.functions.MultilayerPerceptron,-L 0.9021163680618762 -M 0.21316510286002677 -B -H i -C -S 1
+526,softmax50,482,300,30,10,3.846153736114502,weka.classifiers.functions.MultilayerPerceptron,-L 0.9021163680618762 -M 0.21316510286002677 -B -H i -C -S 1
+526,softmax50,512,330,30,11,3.846153736114502,weka.classifiers.functions.MultilayerPerceptron,-L 0.9021163680618762 -M 0.21316510286002677 -B -H i -C -S 1
+526,softmax50,542,360,30,12,3.846153736114502,weka.classifiers.functions.MultilayerPerceptron,-L 0.9021163680618762 -M 0.21316510286002677 -B -H i -C -S 1
+526,softmax50,573,390,30,13,3.846153736114502,weka.classifiers.functions.MultilayerPerceptron,-L 0.9021163680618762 -M 0.21316510286002677 -B -H i -C -S 1
+526,softmax50,603,420,30,14,3.846153736114502,weka.classifiers.functions.MultilayerPerceptron,-L 0.9021163680618762 -M 0.21316510286002677 -B -H i -C -S 1

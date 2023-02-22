@@ -1,0 +1,10 @@
+488,softmax50,241,60,30,2,12.820512771606445,weka.classifiers.trees.J48,-O -U -J -A -M 32
+488,softmax50,271,90,30,3,12.820512771606445,weka.classifiers.trees.J48,-O -U -J -A -M 32
+488,softmax50,301,120,30,4,12.820512771606445,weka.classifiers.trees.J48,-O -U -J -A -M 32
+488,softmax50,331,150,30,5,12.820512771606445,weka.classifiers.trees.J48,-O -U -J -A -M 32
+488,softmax50,362,180,30,6,12.820512771606445,weka.classifiers.trees.J48,-O -U -J -A -M 32
+488,softmax50,392,210,30,7,12.820512771606445,weka.classifiers.trees.J48,-O -U -J -A -M 32
+488,softmax50,422,240,30,8,12.820512771606445,weka.classifiers.trees.J48,-O -U -J -A -M 32
+488,softmax50,452,270,30,9,12.820512771606445,weka.classifiers.trees.J48,-O -U -J -A -M 32
+488,softmax50,482,300,30,10,12.820512771606445,weka.classifiers.trees.J48,-O -U -J -A -M 32
+488,softmax50,512,330,30,11,12.820512771606445,weka.classifiers.trees.J48,-O -U -J -A -M 32

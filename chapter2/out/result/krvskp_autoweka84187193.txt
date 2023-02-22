@@ -1,0 +1,12 @@
+Algorithms:
+weka.classifiers.lazy.IBk
+weka.classifiers.trees.RandomForest
+weka.classifiers.functions.Logistic
+weka.classifiers.functions.SMO
+
+All time (seconds): 395
+
+Autoweka result:
+Raw args = -_0__wekaclassifierstreesrandomforest_00_INT_I 77 -_0__wekaclassifierstreesrandomforest_01_features_HIDDEN 0 -_0__wekaclassifierstreesrandomforest_02_1_INT_K 0 -_0__wekaclassifierstreesrandomforest_04_depth_HIDDEN 0 -_0__wekaclassifierstreesrandomforest_05_1_INT_depth 0 -targetclass weka.classifiers.trees.RandomForest 
+Args = -I 77 -K 0 -depth 0
+Error estimate = 0.8039718

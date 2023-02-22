@@ -1,0 +1,14 @@
+Algorithms:
+weka.classifiers.lazy.IBk
+weka.classifiers.trees.RandomForest
+weka.classifiers.functions.Logistic
+weka.classifiers.functions.SMO
+weka.classifiers.functions.MultilayerPerceptron
+weka.classifiers.trees.J48
+
+All time (seconds): 745
+
+Autoweka result:
+Raw args = -_0__wekaclassifierslazyibk_00_E REMOVE_PREV -_0__wekaclassifierslazyibk_01_INT_K 5 -_0__wekaclassifierslazyibk_02_X REMOVED -_0__wekaclassifierslazyibk_04_I REMOVED -targetclass weka.classifiers.lazy.IBk 
+Args = -K 5 -X -I
+Error estimate = 8.057835

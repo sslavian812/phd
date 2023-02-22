@@ -1,0 +1,1 @@
+01:57:09.317 [main] ERROR c.u.c.b.smac.executors.SMACExecutor - Message: Can only specify option --scenario-file once.

@@ -1,0 +1,178 @@
+ExpName, AlgoName, Timeout, ErrorEstimate, BestAlgo, BestParams
+krvskp,autoweka,240,1.2672166,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+krvskp,autoweka,300,1.1736267,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+krvskp,autoweka,360,1.1736267,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+krvskp,autoweka,420,1.1736267,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+krvskp,autoweka,480,1.1736267,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+krvskp,autoweka,540,1.1736267,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+krvskp,autoweka,600,1.1736267,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+krvskp,autoweka,660,1.1736267,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+krvskp,autoweka,720,1.1736267,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+krvskp,autoweka,781,0.7266976,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+krvskp,autoweka,840,0.6459535,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+krvskp,autoweka,900,0.6459535,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+krvskp,autoweka,960,0.6459535,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+krvskp,autoweka,1020,0.6459535,weka.classifiers.functions.MultilayerPerceptron,-L 0.481657953796926 -M 0.16383613362802607 -H a -S 1
+krvskp,autoweka,1081,0.6256006,weka.classifiers.functions.MultilayerPerceptron,-L 0.6318143371778043 -M 0.38449609192763423 -H o -C -D -S 1
+krvskp,autoweka,1140,0.6256006,weka.classifiers.functions.MultilayerPerceptron,-L 0.6318143371778043 -M 0.38449609192763423 -H o -C -D -S 1
+krvskp,autoweka,1200,0.6256006,weka.classifiers.functions.MultilayerPerceptron,-L 0.6318143371778043 -M 0.38449609192763423 -H o -C -D -S 1
+krvskp,autoweka,1260,0.6256006,weka.classifiers.functions.MultilayerPerceptron,-L 0.6318143371778043 -M 0.38449609192763423 -H o -C -D -S 1
+krvskp,autoweka,1320,0.6256006,weka.classifiers.functions.MultilayerPerceptron,-L 0.6318143371778043 -M 0.38449609192763423 -H o -C -D -S 1
+krvskp,autoweka,1380,0.6256006,weka.classifiers.functions.MultilayerPerceptron,-L 0.6318143371778043 -M 0.38449609192763423 -H o -C -D -S 1
+krvskp,autoweka,1440,0.6256006,weka.classifiers.functions.MultilayerPerceptron,-L 0.6318143371778043 -M 0.38449609192763423 -H o -C -D -S 1
+krvskp,autoweka,1500,0.6256006,weka.classifiers.functions.MultilayerPerceptron,-L 0.6318143371778043 -M 0.38449609192763423 -H o -C -D -S 1
+krvskp,autoweka,1560,0.6256006,weka.classifiers.functions.MultilayerPerceptron,-L 0.6318143371778043 -M 0.38449609192763423 -H o -C -D -S 1
+krvskp,autoweka,1621,0.6256006,weka.classifiers.functions.MultilayerPerceptron,-L 0.6318143371778043 -M 0.38449609192763423 -H o -C -D -S 1
+krvskp,autoweka,1680,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,1741,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,1801,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,1860,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,1920,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,1980,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,2041,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,2100,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,2161,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,2220,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,2281,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,2340,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,2401,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,2460,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,2520,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,2580,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,2640,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,2701,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,2761,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,2820,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,2880,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,2941,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,3000,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,3060,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,3120,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,3180,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,3240,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,3300,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,3360,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,3420,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,3480,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,3540,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,3600,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,3660,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,3720,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,3781,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,3840,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,3901,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,3960,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,4020,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,4080,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,4140,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,4200,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,4260,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,4320,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,4380,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,4440,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,4500,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,4560,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,4620,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,4680,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,4741,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,4801,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,4860,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,4920,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,4980,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,5040,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,5100,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,5160,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,5220,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,5281,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,5340,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,5400,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,5461,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,5520,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,5580,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,5640,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,5700,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,5760,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,5821,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,5881,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,5940,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,6000,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,6061,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,6120,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,6181,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,6240,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,6300,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,6360,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,6420,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,6480,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,6540,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,6601,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,6660,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,6720,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,6780,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,6841,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,6900,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,6960,0.5809577,weka.classifiers.functions.MultilayerPerceptron,-L 0.6132937730127446 -M 0.4601182388099955 -H a -C -R -D -S 1
+krvskp,autoweka,7020,0.53651506,weka.classifiers.functions.MultilayerPerceptron,-L 0.11701438252376932 -M 0.5239958607669735 -H i -R -S 1
+krvskp,autoweka,7080,0.53651506,weka.classifiers.functions.MultilayerPerceptron,-L 0.11701438252376932 -M 0.5239958607669735 -H i -R -S 1
+krvskp,autoweka,7140,0.53651506,weka.classifiers.functions.MultilayerPerceptron,-L 0.11701438252376932 -M 0.5239958607669735 -H i -R -S 1
+krvskp,autoweka,7200,0.53651506,weka.classifiers.functions.MultilayerPerceptron,-L 0.11701438252376932 -M 0.5239958607669735 -H i -R -S 1
+krvskp,autoweka,7260,0.53651506,weka.classifiers.functions.MultilayerPerceptron,-L 0.11701438252376932 -M 0.5239958607669735 -H i -R -S 1
+krvskp,autoweka,7320,0.53651506,weka.classifiers.functions.MultilayerPerceptron,-L 0.11701438252376932 -M 0.5239958607669735 -H i -R -S 1
+krvskp,autoweka,7380,0.53651506,weka.classifiers.functions.MultilayerPerceptron,-L 0.11701438252376932 -M 0.5239958607669735 -H i -R -S 1
+krvskp,autoweka,7441,0.53651506,weka.classifiers.functions.MultilayerPerceptron,-L 0.11701438252376932 -M 0.5239958607669735 -H i -R -S 1
+krvskp,autoweka,7500,0.53651506,weka.classifiers.functions.MultilayerPerceptron,-L 0.11701438252376932 -M 0.5239958607669735 -H i -R -S 1
+krvskp,autoweka,7560,0.53651506,weka.classifiers.functions.MultilayerPerceptron,-L 0.11701438252376932 -M 0.5239958607669735 -H i -R -S 1
+krvskp,autoweka,7620,0.53651506,weka.classifiers.functions.MultilayerPerceptron,-L 0.11701438252376932 -M 0.5239958607669735 -H i -R -S 1
+krvskp,autoweka,7680,0.53651506,weka.classifiers.functions.MultilayerPerceptron,-L 0.11701438252376932 -M 0.5239958607669735 -H i -R -S 1
+krvskp,autoweka,7741,0.53651506,weka.classifiers.functions.MultilayerPerceptron,-L 0.11701438252376932 -M 0.5239958607669735 -H i -R -S 1
+krvskp,autoweka,7800,0.53651506,weka.classifiers.functions.MultilayerPerceptron,-L 0.11701438252376932 -M 0.5239958607669735 -H i -R -S 1
+krvskp,autoweka,7860,0.53651506,weka.classifiers.functions.MultilayerPerceptron,-L 0.11701438252376932 -M 0.5239958607669735 -H i -R -S 1
+krvskp,autoweka,7921,0.53651506,weka.classifiers.functions.MultilayerPerceptron,-L 0.11701438252376932 -M 0.5239958607669735 -H i -R -S 1
+krvskp,autoweka,7981,0.53651506,weka.classifiers.functions.MultilayerPerceptron,-L 0.11701438252376932 -M 0.5239958607669735 -H i -R -S 1
+krvskp,autoweka,8040,0.53651506,weka.classifiers.functions.MultilayerPerceptron,-L 0.11701438252376932 -M 0.5239958607669735 -H i -R -S 1
+krvskp,autoweka,8100,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,8161,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,8220,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,8281,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,8340,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,8401,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,8460,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,8520,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,8580,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,8640,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,8700,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,8760,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,8820,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,8880,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,8940,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,9001,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,9060,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,9120,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,9180,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,9240,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,9301,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,9360,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,9421,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,9480,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,9540,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,9600,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,9660,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,9720,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,9780,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,9840,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,9900,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,9961,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,10021,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,10080,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,10140,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,10200,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,10260,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,10321,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,10380,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,10440,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,10500,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,10560,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,10620,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,10681,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,10740,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293
+krvskp,autoweka,10801,0.49147183,weka.classifiers.trees.J48,-B -J -M 1 -C 0.723444733379293

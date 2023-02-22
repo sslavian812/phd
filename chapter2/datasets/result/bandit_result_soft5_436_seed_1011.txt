@@ -1,0 +1,2 @@
+436,softmax50,241,60,30,2,100.0,weka.classifiers.trees.RandomForest,-I 38 -K 15 -depth 19
+436,softmax50,271,90,30,3,100.0,weka.classifiers.trees.RandomForest,-I 38 -K 15 -depth 19

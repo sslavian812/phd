@@ -1,0 +1,14 @@
+Algorithms:
+weka.classifiers.lazy.IBk
+weka.classifiers.trees.RandomForest
+weka.classifiers.functions.Logistic
+weka.classifiers.functions.SMO
+weka.classifiers.functions.MultilayerPerceptron
+weka.classifiers.trees.J48
+
+All time (seconds): 452
+
+Autoweka result:
+Raw args = -_0__wekaclassifiersfunctionsmultilayerperceptron_00_L 0.3865554634888524 -_0__wekaclassifiersfunctionsmultilayerperceptron_01_M 0.6913130008538664 -_0__wekaclassifiersfunctionsmultilayerperceptron_02_B REMOVED -_0__wekaclassifiersfunctionsmultilayerperceptron_03_H i -_0__wekaclassifiersfunctionsmultilayerperceptron_04_C REMOVED -_0__wekaclassifiersfunctionsmultilayerperceptron_05_R REMOVED -_0__wekaclassifiersfunctionsmultilayerperceptron_06_D REMOVED -_0__wekaclassifiersfunctionsmultilayerperceptron_07_S 1 -targetclass weka.classifiers.functions.MultilayerPerceptron 
+Args = -L 0.3865554634888524 -M 0.6913130008538664 -B -H i -C -R -D -S 1
+Error estimate = 0.7664501

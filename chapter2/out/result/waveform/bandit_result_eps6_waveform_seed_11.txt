@@ -1,0 +1,359 @@
+waveform,eps-greedy6,243,60,30,2,12.619047164916992,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,274,90,30,3,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,304,120,30,4,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,334,150,30,5,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,364,180,30,6,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,394,210,30,7,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,425,240,30,8,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,455,270,30,9,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,485,300,30,10,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,515,330,30,11,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,546,360,30,12,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,576,390,30,13,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,606,420,30,14,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,637,450,30,15,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,667,480,30,16,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,697,510,30,17,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,728,540,30,18,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,758,570,30,19,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,788,600,30,20,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,818,630,30,21,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,849,660,30,22,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,879,690,30,23,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,909,720,30,24,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,939,750,30,25,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,970,780,30,26,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1000,810,30,27,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1030,840,30,28,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1060,870,30,29,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1091,900,30,30,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1121,930,30,31,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1151,960,30,32,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1181,990,30,33,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1211,1020,30,34,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1241,1050,30,35,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1272,1080,30,36,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1302,1110,30,37,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1332,1140,30,38,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1362,1170,30,39,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1393,1200,30,40,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1423,1230,30,41,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1453,1260,30,42,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1483,1290,30,43,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1513,1320,30,44,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1544,1350,30,45,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1574,1380,30,46,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1604,1410,30,47,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1634,1440,30,48,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1664,1470,30,49,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1695,1500,30,50,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1725,1530,30,51,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1755,1560,30,52,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1785,1590,30,53,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1816,1620,30,54,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1846,1650,30,55,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1876,1680,30,56,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1906,1710,30,57,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1937,1740,30,58,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1967,1770,30,59,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,1997,1800,30,60,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,2027,1830,30,61,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,2057,1860,30,62,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,2088,1890,30,63,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,2118,1920,30,64,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,2148,1950,30,65,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,2178,1980,30,66,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,2208,2010,30,67,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,2239,2040,30,68,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,2269,2070,30,69,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,2299,2100,30,70,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,2329,2130,30,71,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,2360,2160,30,72,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,2390,2190,30,73,12.321428298950195,weka.classifiers.functions.Logistic,-R 5.548907780036061E-10
+waveform,eps-greedy6,2420,2220,30,74,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,2450,2250,30,75,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,2481,2280,30,76,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,2511,2310,30,77,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,2541,2340,30,78,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,2571,2370,30,79,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,2601,2400,30,80,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,2632,2430,30,81,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,2662,2460,30,82,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,2692,2490,30,83,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,2722,2520,30,84,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,2753,2550,30,85,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,2783,2580,30,86,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,2813,2610,30,87,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,2843,2640,30,88,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,2873,2670,30,89,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,2904,2700,30,90,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,2934,2730,30,91,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,2964,2760,30,92,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,2994,2790,30,93,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3024,2820,30,94,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3055,2850,30,95,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3085,2880,30,96,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3115,2910,30,97,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3145,2940,30,98,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3176,2970,30,99,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3206,3000,30,100,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3236,3030,30,101,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3266,3060,30,102,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3297,3090,30,103,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3327,3120,30,104,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3357,3150,30,105,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3388,3180,30,106,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3418,3210,30,107,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3448,3240,30,108,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3478,3270,30,109,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3508,3300,30,110,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3539,3330,30,111,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3569,3360,30,112,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3599,3390,30,113,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3629,3420,30,114,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3659,3450,30,115,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3690,3480,30,116,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3720,3510,30,117,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3750,3540,30,118,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3780,3570,30,119,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3810,3600,30,120,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3841,3630,30,121,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3871,3660,30,122,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3901,3690,30,123,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3931,3720,30,124,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3962,3750,30,125,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,3992,3780,30,126,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4022,3810,30,127,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4052,3840,30,128,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4083,3870,30,129,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4113,3900,30,130,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4143,3930,30,131,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4173,3960,30,132,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4203,3990,30,133,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4234,4020,30,134,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4264,4050,30,135,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4294,4080,30,136,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4324,4110,30,137,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4355,4140,30,138,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4385,4170,30,139,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4415,4200,30,140,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4445,4230,30,141,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4475,4260,30,142,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4506,4290,30,143,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4536,4320,30,144,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4566,4350,30,145,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4596,4380,30,146,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4627,4410,30,147,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4657,4440,30,148,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4687,4470,30,149,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4717,4500,30,150,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4748,4530,30,151,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4778,4560,30,152,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4808,4590,30,153,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4839,4620,30,154,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4869,4650,30,155,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4899,4680,30,156,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4929,4710,30,157,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4960,4740,30,158,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,4990,4770,30,159,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5020,4800,30,160,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5050,4830,30,161,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5080,4860,30,162,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5111,4890,30,163,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5141,4920,30,164,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5171,4950,30,165,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5201,4980,30,166,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5232,5010,30,167,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5262,5040,30,168,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5292,5070,30,169,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5322,5100,30,170,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5353,5130,30,171,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5383,5160,30,172,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5413,5190,30,173,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5443,5220,30,174,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5474,5250,30,175,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5504,5280,30,176,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5534,5310,30,177,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5564,5340,30,178,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5594,5370,30,179,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5625,5400,30,180,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5655,5430,30,181,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5685,5460,30,182,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5716,5490,30,183,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5746,5520,30,184,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5776,5550,30,185,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5806,5580,30,186,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5837,5610,30,187,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5867,5640,30,188,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5897,5670,30,189,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5928,5700,30,190,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5958,5730,30,191,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,5988,5760,30,192,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6018,5790,30,193,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6048,5820,30,194,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6079,5850,30,195,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6109,5880,30,196,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6139,5910,30,197,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6169,5940,30,198,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6200,5970,30,199,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6230,6000,30,200,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6260,6030,30,201,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6290,6060,30,202,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6321,6090,30,203,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6351,6120,30,204,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6381,6150,30,205,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6411,6180,30,206,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6441,6210,30,207,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6472,6240,30,208,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6502,6270,30,209,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6532,6300,30,210,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6562,6330,30,211,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6592,6360,30,212,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6623,6390,30,213,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6653,6420,30,214,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6683,6450,30,215,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6713,6480,30,216,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6743,6510,30,217,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6774,6540,30,218,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6804,6570,30,219,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6834,6600,30,220,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6864,6630,30,221,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6894,6660,30,222,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6925,6690,30,223,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6955,6720,30,224,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,6985,6750,30,225,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7015,6780,30,226,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7046,6810,30,227,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7076,6840,30,228,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7106,6870,30,229,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7136,6900,30,230,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7166,6930,30,231,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7197,6960,30,232,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7227,6990,30,233,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7257,7020,30,234,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7287,7050,30,235,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7318,7080,30,236,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7348,7110,30,237,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7378,7140,30,238,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7408,7170,30,239,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7438,7200,30,240,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7469,7230,30,241,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7499,7260,30,242,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7529,7290,30,243,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7559,7320,30,244,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7589,7350,30,245,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7620,7380,30,246,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7650,7410,30,247,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7680,7440,30,248,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7710,7470,30,249,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7740,7500,30,250,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7770,7530,30,251,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7801,7560,30,252,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7831,7590,30,253,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7861,7620,30,254,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7891,7650,30,255,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7921,7680,30,256,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7952,7710,30,257,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,7982,7740,30,258,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8012,7770,30,259,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8042,7800,30,260,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8072,7830,30,261,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8103,7860,30,262,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8133,7890,30,263,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8163,7920,30,264,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8193,7950,30,265,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8223,7980,30,266,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8254,8010,30,267,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8284,8040,30,268,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8314,8070,30,269,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8344,8100,30,270,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8374,8130,30,271,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8405,8160,30,272,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8435,8190,30,273,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8465,8220,30,274,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8495,8250,30,275,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8525,8280,30,276,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8556,8310,30,277,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8586,8340,30,278,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8616,8370,30,279,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8646,8400,30,280,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8677,8430,30,281,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8707,8460,30,282,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8737,8490,30,283,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8768,8520,30,284,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8798,8550,30,285,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8828,8580,30,286,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8858,8610,30,287,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8888,8640,30,288,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8919,8670,30,289,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8949,8700,30,290,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,8980,8730,30,291,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9010,8760,30,292,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9040,8790,30,293,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9070,8820,30,294,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9101,8850,30,295,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9131,8880,30,296,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9161,8910,30,297,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9191,8940,30,298,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9221,8970,30,299,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9252,9000,30,300,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9282,9030,30,301,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9312,9060,30,302,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9342,9090,30,303,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9372,9120,30,304,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9402,9150,30,305,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9433,9180,30,306,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9463,9210,30,307,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9493,9240,30,308,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9524,9270,30,309,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9554,9300,30,310,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9584,9330,30,311,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9614,9360,30,312,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9645,9390,30,313,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9675,9420,30,314,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9705,9450,30,315,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9735,9480,30,316,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9765,9510,30,317,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9796,9540,30,318,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9826,9570,30,319,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9856,9600,30,320,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9886,9630,30,321,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9917,9660,30,322,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9947,9690,30,323,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,9977,9720,30,324,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10007,9750,30,325,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10037,9780,30,326,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10068,9810,30,327,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10098,9840,30,328,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10128,9870,30,329,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10158,9900,30,330,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10189,9930,30,331,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10219,9960,30,332,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10249,9990,30,333,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10280,10020,30,334,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10310,10050,30,335,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10340,10080,30,336,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10370,10110,30,337,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10401,10140,30,338,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10431,10170,30,339,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10462,10200,30,340,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10492,10230,30,341,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10522,10260,30,342,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10553,10290,30,343,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10583,10320,30,344,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10613,10350,30,345,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10643,10380,30,346,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10674,10410,30,347,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10704,10440,30,348,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10734,10470,30,349,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10764,10500,30,350,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10795,10530,30,351,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10825,10560,30,352,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10855,10590,30,353,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10886,10620,30,354,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10916,10650,30,355,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10946,10680,30,356,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,10976,10710,30,357,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,11007,10740,30,358,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,11037,10770,30,359,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1
+waveform,eps-greedy6,11067,10800,30,360,10.857142448425293,weka.classifiers.functions.MultilayerPerceptron,-L 0.4921709894482045 -M 0.10568260037113157 -H a -C -D -S 1

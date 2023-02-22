@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="autoweka">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/autoweka.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

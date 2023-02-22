@@ -1,0 +1,1 @@
+18:34:46.921 [main] ERROR c.u.c.b.smac.executors.SMACExecutor - Message: Was passed main parameter 'smac-possible-restores' but no main parameter was defined

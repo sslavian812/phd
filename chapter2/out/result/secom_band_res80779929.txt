@@ -1,0 +1,16 @@
+Algorithms:
+LogisticRegression
+RandomForest
+kNN
+SVM
+
+Bandit algorithm: epsilon-greedy, eps = 0.7
+Bandit iterations: 10
+Bandit iteration budget: 30000
+All time (seconds): 391
+
+Multi-armed bandit result:
+Best algorithm: weka.classifiers.functions.SMO
+Best hyperparameters: -C 0.7838386904172389 -N 1 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.6057955159148034 -L"
+Best error estimate: 4.545454502105713
+

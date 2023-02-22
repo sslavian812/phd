@@ -1,0 +1,180 @@
+waveform,autoweka,240,12.857142,weka.classifiers.functions.MultilayerPerceptron,-L 0.16635169241113507 -M 0.20645615527592798 -H a -R -D -S 1
+waveform,autoweka,300,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,360,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,420,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,480,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,540,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,600,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,660,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,720,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,780,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,840,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,900,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,960,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,1020,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,1080,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,1140,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,1200,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,1260,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,1320,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,1380,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,1440,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,1500,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,1560,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,1620,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,1680,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,1740,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,1800,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,1860,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,1920,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,1980,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,2040,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,2100,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,2160,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,2220,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,2280,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,2340,12.8,weka.classifiers.functions.Logistic,-R 2.3698326202036233E-9
+waveform,autoweka,2400,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,2460,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,2520,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,2580,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,2640,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,2700,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,2760,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,2820,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,2880,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,2940,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,3000,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,3060,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,3120,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,3180,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,3240,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,3300,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,3360,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,3420,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,3480,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,3540,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,3600,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,3660,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,3720,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,3780,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,3840,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,3900,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,3960,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,4020,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,4080,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,4140,12.771428,weka.classifiers.functions.Logistic,-R 1.238407041124909
+waveform,autoweka,4200,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,4260,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,4320,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,4380,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,4440,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,4500,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,4560,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,4620,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,4680,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,4740,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,4800,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,4860,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,4920,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,4980,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,5040,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,5100,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,5160,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,5220,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,5280,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,5340,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,5400,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,5460,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,5520,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,5580,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,5640,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,5700,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,5760,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,5820,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,5880,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,5940,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,6000,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,6060,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,6120,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,6180,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,6240,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,6300,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,6360,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,6420,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,6480,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,6540,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,6600,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,6660,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,6720,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,6780,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,6840,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,6900,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,6960,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,7020,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,7080,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,7140,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,7200,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,7260,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,7320,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,7380,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,7440,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,7500,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,7560,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,7620,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,7680,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,7740,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,7800,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,7860,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,7920,12.6,weka.classifiers.functions.Logistic,-R 5.5446899290161005
+waveform,autoweka,7980,12.571428,weka.classifiers.functions.SMO,-C 0.7187730284421429 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 9.68005537787608 -O 0.7654222415044564"
+waveform,autoweka,8040,12.571428,weka.classifiers.functions.SMO,-C 0.7187730284421429 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 9.68005537787608 -O 0.7654222415044564"
+waveform,autoweka,8100,12.571428,weka.classifiers.functions.SMO,-C 0.7187730284421429 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 9.68005537787608 -O 0.7654222415044564"
+waveform,autoweka,8160,12.571428,weka.classifiers.functions.SMO,-C 0.7187730284421429 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 9.68005537787608 -O 0.7654222415044564"
+waveform,autoweka,8220,12.571428,weka.classifiers.functions.SMO,-C 0.7187730284421429 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 9.68005537787608 -O 0.7654222415044564"
+waveform,autoweka,8280,12.571428,weka.classifiers.functions.SMO,-C 0.7187730284421429 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 9.68005537787608 -O 0.7654222415044564"
+waveform,autoweka,8340,12.571428,weka.classifiers.functions.SMO,-C 0.7187730284421429 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 9.68005537787608 -O 0.7654222415044564"
+waveform,autoweka,8400,12.571428,weka.classifiers.functions.SMO,-C 0.7187730284421429 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 9.68005537787608 -O 0.7654222415044564"
+waveform,autoweka,8460,12.571428,weka.classifiers.functions.SMO,-C 0.7187730284421429 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 9.68005537787608 -O 0.7654222415044564"
+waveform,autoweka,8520,12.571428,weka.classifiers.functions.SMO,-C 0.7187730284421429 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 9.68005537787608 -O 0.7654222415044564"
+waveform,autoweka,8580,12.571428,weka.classifiers.functions.SMO,-C 0.7187730284421429 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 9.68005537787608 -O 0.7654222415044564"
+waveform,autoweka,8640,12.571428,weka.classifiers.functions.SMO,-C 0.7187730284421429 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 9.68005537787608 -O 0.7654222415044564"
+waveform,autoweka,8700,12.571428,weka.classifiers.functions.SMO,-C 0.7187730284421429 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 9.68005537787608 -O 0.7654222415044564"
+waveform,autoweka,8760,12.571428,weka.classifiers.functions.SMO,-C 0.7187730284421429 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 9.68005537787608 -O 0.7654222415044564"
+waveform,autoweka,8820,12.571428,weka.classifiers.functions.SMO,-C 0.7187730284421429 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 9.68005537787608 -O 0.7654222415044564"
+waveform,autoweka,8880,12.571428,weka.classifiers.functions.SMO,-C 0.7187730284421429 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 9.68005537787608 -O 0.7654222415044564"
+waveform,autoweka,8940,12.514286,weka.classifiers.functions.SMO,-C 1.171963120382951 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 5.949259341941642 -O 0.29207441678280033"
+waveform,autoweka,9000,12.514286,weka.classifiers.functions.SMO,-C 1.171963120382951 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 5.949259341941642 -O 0.29207441678280033"
+waveform,autoweka,9060,12.514286,weka.classifiers.functions.SMO,-C 1.171963120382951 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 5.949259341941642 -O 0.29207441678280033"
+waveform,autoweka,9120,12.514286,weka.classifiers.functions.SMO,-C 1.171963120382951 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 5.949259341941642 -O 0.29207441678280033"
+waveform,autoweka,9180,12.514286,weka.classifiers.functions.SMO,-C 1.171963120382951 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 5.949259341941642 -O 0.29207441678280033"
+waveform,autoweka,9240,12.514286,weka.classifiers.functions.SMO,-C 1.171963120382951 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 5.949259341941642 -O 0.29207441678280033"
+waveform,autoweka,9300,12.514286,weka.classifiers.functions.SMO,-C 1.171963120382951 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 5.949259341941642 -O 0.29207441678280033"
+waveform,autoweka,9360,12.514286,weka.classifiers.functions.SMO,-C 1.171963120382951 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 5.949259341941642 -O 0.29207441678280033"
+waveform,autoweka,9420,12.514286,weka.classifiers.functions.SMO,-C 1.171963120382951 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 5.949259341941642 -O 0.29207441678280033"
+waveform,autoweka,9480,12.514286,weka.classifiers.functions.SMO,-C 1.171963120382951 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 5.949259341941642 -O 0.29207441678280033"
+waveform,autoweka,9540,12.514286,weka.classifiers.functions.SMO,-C 1.171963120382951 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 5.949259341941642 -O 0.29207441678280033"
+waveform,autoweka,9600,12.514286,weka.classifiers.functions.SMO,-C 1.171963120382951 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 5.949259341941642 -O 0.29207441678280033"
+waveform,autoweka,9660,12.514286,weka.classifiers.functions.SMO,-C 1.171963120382951 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 5.949259341941642 -O 0.29207441678280033"
+waveform,autoweka,9720,12.514286,weka.classifiers.functions.SMO,-C 1.171963120382951 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 5.949259341941642 -O 0.29207441678280033"
+waveform,autoweka,9780,12.514286,weka.classifiers.functions.SMO,-C 1.171963120382951 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 5.949259341941642 -O 0.29207441678280033"
+waveform,autoweka,9840,12.514286,weka.classifiers.functions.SMO,-C 1.171963120382951 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 5.949259341941642 -O 0.29207441678280033"
+waveform,autoweka,9900,12.514286,weka.classifiers.functions.SMO,-C 1.171963120382951 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 5.949259341941642 -O 0.29207441678280033"
+waveform,autoweka,9960,12.514286,weka.classifiers.functions.SMO,-C 1.171963120382951 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 5.949259341941642 -O 0.29207441678280033"
+waveform,autoweka,10020,12.514286,weka.classifiers.functions.SMO,-C 1.171963120382951 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 5.949259341941642 -O 0.29207441678280033"
+waveform,autoweka,10080,12.514286,weka.classifiers.functions.SMO,-C 1.171963120382951 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 5.949259341941642 -O 0.29207441678280033"
+waveform,autoweka,10140,12.514286,weka.classifiers.functions.SMO,-C 1.171963120382951 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 5.949259341941642 -O 0.29207441678280033"
+waveform,autoweka,10200,12.514286,weka.classifiers.functions.SMO,-C 1.171963120382951 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 5.949259341941642 -O 0.29207441678280033"
+waveform,autoweka,10279,12.357142,weka.classifiers.functions.Logistic,-R 8.542431803853838E-8
+waveform,autoweka,10320,12.357142,weka.classifiers.functions.Logistic,-R 8.542431803853838E-8
+waveform,autoweka,10381,12.357142,weka.classifiers.functions.Logistic,-R 8.542431803853838E-8
+waveform,autoweka,10440,12.357142,weka.classifiers.functions.Logistic,-R 8.542431803853838E-8
+waveform,autoweka,10500,12.357142,weka.classifiers.functions.Logistic,-R 8.542431803853838E-8
+waveform,autoweka,10560,12.357142,weka.classifiers.functions.Logistic,-R 8.542431803853838E-8
+waveform,autoweka,10620,12.357142,weka.classifiers.functions.Logistic,-R 8.542431803853838E-8
+waveform,autoweka,10680,12.357142,weka.classifiers.functions.Logistic,-R 8.542431803853838E-8
+waveform,autoweka,10740,12.357142,weka.classifiers.functions.Logistic,-R 8.542431803853838E-8
+waveform,autoweka,10800,12.357142,weka.classifiers.functions.Logistic,-R 8.542431803853838E-8
+waveform,autoweka,10860,12.357142,weka.classifiers.functions.Logistic,-R 8.542431803853838E-8
+waveform,autoweka,10920,12.357142,weka.classifiers.functions.Logistic,-R 8.542431803853838E-8
+waveform,autoweka,10984,12.357142,weka.classifiers.functions.Logistic,-R 8.542431803853838E-8

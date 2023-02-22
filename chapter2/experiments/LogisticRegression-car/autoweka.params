@@ -1,0 +1,4 @@
+_0__wekaclassifiersfunctionslogistic_00_R [1.0E-12, 10.0] [1.0E-7]l
+targetclass {weka.classifiers.functions.Logistic} [weka.classifiers.functions.Logistic]
+Conditionals:
+_0__wekaclassifiersfunctionslogistic_00_R | targetclass in {weka.classifiers.functions.Logistic}

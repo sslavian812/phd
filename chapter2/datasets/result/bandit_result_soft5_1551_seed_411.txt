@@ -1,0 +1,16 @@
+1551,softmax50,241,60,30,2,57.5,weka.classifiers.trees.J48,-B -A -M 5
+1551,softmax50,271,90,30,3,57.5,weka.classifiers.trees.J48,-B -A -M 5
+1551,softmax50,301,120,30,4,57.5,weka.classifiers.trees.J48,-B -A -M 5
+1551,softmax50,331,150,30,5,57.5,weka.classifiers.trees.J48,-B -A -M 5
+1551,softmax50,361,180,30,6,57.5,weka.classifiers.trees.J48,-B -A -M 5
+1551,softmax50,392,210,30,7,57.5,weka.classifiers.trees.J48,-B -A -M 5
+1551,softmax50,422,240,30,8,57.5,weka.classifiers.trees.J48,-B -A -M 5
+1551,softmax50,452,270,30,9,57.5,weka.classifiers.trees.J48,-B -A -M 5
+1551,softmax50,482,300,30,10,57.5,weka.classifiers.trees.J48,-B -A -M 5
+1551,softmax50,512,330,30,11,57.5,weka.classifiers.trees.J48,-B -A -M 5
+1551,softmax50,542,360,30,12,57.5,weka.classifiers.trees.J48,-B -A -M 5
+1551,softmax50,572,390,30,13,57.5,weka.classifiers.trees.J48,-B -A -M 5
+1551,softmax50,603,420,30,14,57.5,weka.classifiers.trees.J48,-B -A -M 5
+1551,softmax50,633,450,30,15,57.5,weka.classifiers.trees.J48,-B -A -M 5
+1551,softmax50,663,480,30,16,57.5,weka.classifiers.trees.J48,-B -A -M 5
+1551,softmax50,693,510,30,17,56.5,weka.classifiers.trees.RandomForest,-I 155 -K 27 -depth 0

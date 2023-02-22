@@ -1,0 +1,178 @@
+ExpName, AlgoName, Timeout, ErrorEstimate, BestAlgo, BestParams
+yeast,autoweka,241,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,301,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,361,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,421,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,481,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,541,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,601,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,661,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,721,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,781,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,841,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,901,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,961,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,1021,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,1081,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,1141,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,1201,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,1261,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,1321,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,1381,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,1441,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,1501,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,1561,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,1621,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,1681,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,1741,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,1801,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,1861,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,1921,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,1981,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,2041,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,2101,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,2161,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,2221,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,2281,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,2341,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,2401,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,2461,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,2521,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,2581,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,2641,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,2701,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,2761,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,2821,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,2881,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,2941,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,3001,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,3061,38.46154,weka.classifiers.trees.J48,-O -M 5 -C 0.07439791497393189
+yeast,autoweka,3121,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,3181,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,3241,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,3301,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,3361,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,3421,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,3481,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,3541,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,3601,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,3661,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,3721,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,3781,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,3841,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,3902,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,3961,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,4021,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,4081,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,4141,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,4201,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,4262,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,4321,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,4381,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,4441,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,4501,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,4561,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,4621,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,4681,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,4741,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,4801,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,4861,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,4921,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,4981,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,5041,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,5101,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,5161,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,5221,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,5281,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,5341,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,5401,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,5461,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,5521,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,5581,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,5641,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,5701,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,5761,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,5821,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,5881,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,5941,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,6001,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,6061,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,6121,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,6181,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,6242,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,6301,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,6361,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,6421,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,6481,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,6541,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,6601,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,6661,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,6721,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,6781,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,6841,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,6901,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,6961,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,7021,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,7081,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,7141,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,7201,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,7261,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,7321,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,7381,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,7441,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,7501,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,7561,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,7621,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,7681,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,7741,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,7801,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,7861,38.115196,weka.classifiers.lazy.IBk,-E -K 15 -X -I
+yeast,autoweka,7921,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,7981,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,8041,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,8101,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,8161,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,8221,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,8281,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,8341,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,8401,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,8461,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,8521,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,8581,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,8641,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,8701,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,8761,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,8821,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,8881,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,8941,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,9001,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,9061,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,9121,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,9181,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,9241,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,9301,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,9361,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,9421,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,9481,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,9541,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,9601,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,9661,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,9721,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,9781,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,9841,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,9901,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,9961,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,10021,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,10081,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,10142,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,10201,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,10261,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,10321,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,10381,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,10441,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,10501,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,10561,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,10621,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,10681,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,10741,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0
+yeast,autoweka,10801,37.628826,weka.classifiers.trees.RandomForest,-I 209 -K 1 -depth 0

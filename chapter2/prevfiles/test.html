@@ -1,0 +1,19 @@
+<head>
+               <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+<div id="tester" style="width:500px;height:500px;"></div>
+
+<script>
+var data = [
+  {
+    z: [[1, 20, 30, 50, 1], [20, 1, 60, 80, 30], [30, 60, 1, -10, 20]],
+    x: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday'],
+    y: ['Morning', 'Afternoon', 'Evening'],
+    type: 'heatmap'
+  }
+];
+
+Plotly.newPlot(document.getElementById('tester'), data);
+</script>
+</body>

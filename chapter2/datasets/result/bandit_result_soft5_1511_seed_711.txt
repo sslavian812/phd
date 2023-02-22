@@ -1,0 +1,7 @@
+1511,softmax50,241,60,30,2,25.0,weka.classifiers.functions.SMO,-C 0.821093466394753 -N 2 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.669582002999834 -L"
+1511,softmax50,271,90,30,3,25.0,weka.classifiers.functions.SMO,-C 0.821093466394753 -N 2 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.669582002999834 -L"
+1511,softmax50,301,120,30,4,25.0,weka.classifiers.functions.SMO,-C 0.821093466394753 -N 2 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.669582002999834 -L"
+1511,softmax50,331,150,30,5,25.0,weka.classifiers.functions.SMO,-C 0.821093466394753 -N 2 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.669582002999834 -L"
+1511,softmax50,361,180,30,6,25.0,weka.classifiers.functions.SMO,-C 0.821093466394753 -N 2 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.669582002999834 -L"
+1511,softmax50,391,210,30,7,25.0,weka.classifiers.functions.SMO,-C 0.821093466394753 -N 2 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.669582002999834 -L"
+1511,softmax50,421,240,30,8,25.0,weka.classifiers.functions.SMO,-C 0.821093466394753 -N 2 -K "weka.classifiers.functions.supportVector.NormalizedPolyKernel -E 3.669582002999834 -L"

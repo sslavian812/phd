@@ -1,0 +1,49 @@
+dorothea,qlearning50_70,65,60,30,2,1.7976931348623157E308,null,null
+dorothea,qlearning50_70,95,90,30,3,1.7976931348623157E308,null,null
+dorothea,qlearning50_70,125,120,30,4,1.7976931348623157E308,null,null
+dorothea,qlearning50_70,156,150,30,5,1.7976931348623157E308,null,null
+dorothea,qlearning50_70,186,180,30,6,1.7976931348623157E308,null,null
+dorothea,qlearning50_70,216,210,30,7,1.7976931348623157E308,null,null
+dorothea,qlearning50_70,246,240,30,8,1.7976931348623157E308,null,null
+dorothea,qlearning50_70,276,270,30,9,1.7976931348623157E308,null,null
+dorothea,qlearning50_70,306,300,30,10,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,336,330,30,11,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,367,360,30,12,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,397,390,30,13,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,427,420,30,14,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,457,450,30,15,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,487,480,30,16,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,517,510,30,17,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,547,540,30,18,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,577,570,30,19,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,607,600,30,20,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,638,630,30,21,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,668,660,30,22,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,698,690,30,23,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,728,720,30,24,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,758,750,30,25,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,788,780,30,26,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,818,810,30,27,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,848,840,30,28,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,879,870,30,29,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,909,900,30,30,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,939,930,30,31,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,969,960,30,32,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,999,990,30,33,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,1029,1020,30,34,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,1059,1050,30,35,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,1089,1080,30,36,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,1120,1110,30,37,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,1150,1140,30,38,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,1180,1170,30,39,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,1210,1200,30,40,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,1240,1230,30,41,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,1270,1260,30,42,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,1300,1290,30,43,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,1330,1320,30,44,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,1360,1350,30,45,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,1391,1380,30,46,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,1421,1410,30,47,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,1451,1440,30,48,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,1481,1470,30,49,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1
+dorothea,qlearning50_70,1511,1500,30,50,4.938271522521973,weka.classifiers.trees.J48,-O -B -J -S -M 1

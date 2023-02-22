@@ -1,0 +1,17 @@
+car 11.txt car,softmax50,11070,10800,30,360,0.18365472555160522,weka.classifiers.functions.SMO,-C 1.2143921820763453 -N 2 -K "weka.classifiers.functions.supportVector.PolyKernel -E 2.99869239818423" best error = 0.18365472555160522
+dexter 711.txt dexter,softmax50,15696,10800,30,360,0.16091954708099365,weka.classifiers.functions.MultilayerPerceptron,-L 0.5361886732160056 -M 0.2652728101417725 -B -H a -R -S 1 best error = 0.16091954708099365
+dorothea 105.txt dorothea,softmax50,11114,10800,30,360,4.320987701416016,weka.classifiers.trees.J48,-B -S -M 17 -C 0.21460505939030716 best error = 4.320987701416016
+gcredits 71.txt gcredits,softmax50,11095,10800,30,360,14.285714149475098,weka.classifiers.functions.MultilayerPerceptron,-L 0.44184743352104217 -M 0.1765261058308849 -B -H t -D -S 1 best error = 14.285714149475098
+krvskp 311.txt krvskp,softmax50,11069,10800,30,360,0.1488095223903656,weka.classifiers.trees.J48,-B -S -M 1 -C 0.9039515779741514 best error = 0.1488095223903656
+secom 211.txt secom,softmax50,11174,10800,30,360,3.6363637447357178,weka.classifiers.trees.RandomForest,-I 3 -K 4 -depth 0 best error = 3.6363637447357178
+semeion 1.txt semeion,softmax50,11114,10800,30,360,1.7857142686843872,weka.classifiers.trees.RandomForest,-I 161 -K 0 -depth 19 best error = 1.7857142686843872
+shuttle 811.txt shuttle,softmax50,11086,10800,30,360,0.007662835065275431,weka.classifiers.trees.RandomForest,-I 21 -K 0 -depth 0 best error = 0.007662835065275431
+waveform 311.txt waveform,softmax50,11095,10800,30,360,8.285714149475098,weka.classifiers.functions.SMO,-C 0.8524108470117335 -N 2 -K "weka.classifiers.functions.supportVector.Puk -S 9.753173227153683 -O 0.29518503928770273" best error = 8.285714149475098
+yeast 71.txt yeast,softmax50,11081,10800,30,360,29.80769157409668,weka.classifiers.trees.RandomForest,-I 35 -K 0 -depth 0 best error = 29.80769157409668
+
+writer.print("1"); // SVM
+writer.print("2"); // Random Forest
+writer.print("3"); // Perceptron
+writer.print("4"); // Decision Tree
+writer.print("5"); // kNN
+writer.print("6"); // Logistic Regression

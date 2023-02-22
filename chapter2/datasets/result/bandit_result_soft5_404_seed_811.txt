@@ -1,0 +1,11 @@
+404,softmax50,241,60,30,2,100.0,weka.classifiers.functions.Logistic,-R 7.265022583501099E-9
+404,softmax50,271,90,30,3,100.0,weka.classifiers.functions.Logistic,-R 7.265022583501099E-9
+404,softmax50,301,120,30,4,100.0,weka.classifiers.functions.Logistic,-R 7.265022583501099E-9
+404,softmax50,331,150,30,5,100.0,weka.classifiers.functions.Logistic,-R 7.265022583501099E-9
+404,softmax50,361,180,30,6,100.0,weka.classifiers.functions.Logistic,-R 7.265022583501099E-9
+404,softmax50,391,210,30,7,100.0,weka.classifiers.functions.Logistic,-R 7.265022583501099E-9
+404,softmax50,422,240,30,8,100.0,weka.classifiers.functions.Logistic,-R 7.265022583501099E-9
+404,softmax50,452,270,30,9,100.0,weka.classifiers.functions.Logistic,-R 7.265022583501099E-9
+404,softmax50,482,300,30,10,100.0,weka.classifiers.functions.Logistic,-R 7.265022583501099E-9
+404,softmax50,512,330,30,11,100.0,weka.classifiers.functions.Logistic,-R 7.265022583501099E-9
+404,softmax50,542,360,30,12,100.0,weka.classifiers.functions.Logistic,-R 7.265022583501099E-9

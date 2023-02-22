@@ -1,0 +1,15 @@
+802,softmax50,241,60,30,2,19.242929458618164,weka.classifiers.trees.RandomForest,-I 116 -K 0 -depth 16
+802,softmax50,272,90,30,3,19.242929458618164,weka.classifiers.trees.RandomForest,-I 116 -K 0 -depth 16
+802,softmax50,302,120,30,4,19.242929458618164,weka.classifiers.trees.RandomForest,-I 116 -K 0 -depth 16
+802,softmax50,332,150,30,5,18.428936004638672,weka.classifiers.trees.RandomForest,-I 116 -K 0 -depth 16
+802,softmax50,362,180,30,6,18.428936004638672,weka.classifiers.trees.RandomForest,-I 116 -K 0 -depth 16
+802,softmax50,392,210,30,7,18.428936004638672,weka.classifiers.trees.RandomForest,-I 116 -K 0 -depth 16
+802,softmax50,423,240,30,8,18.1386661529541,weka.classifiers.trees.RandomForest,-I 135 -K 25 -depth 16
+802,softmax50,453,270,30,9,18.1386661529541,weka.classifiers.trees.RandomForest,-I 135 -K 25 -depth 16
+802,softmax50,483,300,30,10,18.1386661529541,weka.classifiers.trees.RandomForest,-I 135 -K 25 -depth 16
+802,softmax50,513,330,30,11,18.1386661529541,weka.classifiers.trees.RandomForest,-I 135 -K 25 -depth 16
+802,softmax50,543,360,30,12,18.1386661529541,weka.classifiers.trees.RandomForest,-I 135 -K 25 -depth 16
+802,softmax50,573,390,30,13,18.1386661529541,weka.classifiers.trees.RandomForest,-I 135 -K 25 -depth 16
+802,softmax50,603,420,30,14,18.1386661529541,weka.classifiers.trees.RandomForest,-I 135 -K 25 -depth 16
+802,softmax50,634,450,30,15,18.1386661529541,weka.classifiers.trees.RandomForest,-I 135 -K 25 -depth 16
+802,softmax50,664,480,30,16,18.1386661529541,weka.classifiers.trees.RandomForest,-I 135 -K 25 -depth 16

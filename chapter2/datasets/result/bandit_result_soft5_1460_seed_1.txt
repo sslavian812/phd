@@ -1,0 +1,28 @@
+1460,softmax50,241,60,30,2,9.811320304870605,weka.classifiers.trees.RandomForest,-I 161 -K 0 -depth 19
+1460,softmax50,271,90,30,3,9.811320304870605,weka.classifiers.trees.RandomForest,-I 161 -K 0 -depth 19
+1460,softmax50,301,120,30,4,9.811320304870605,weka.classifiers.trees.RandomForest,-I 161 -K 0 -depth 19
+1460,softmax50,331,150,30,5,9.811320304870605,weka.classifiers.trees.RandomForest,-I 161 -K 0 -depth 19
+1460,softmax50,361,180,30,6,9.811320304870605,weka.classifiers.trees.RandomForest,-I 161 -K 0 -depth 19
+1460,softmax50,391,210,30,7,9.811320304870605,weka.classifiers.trees.RandomForest,-I 161 -K 0 -depth 19
+1460,softmax50,421,240,30,8,9.811320304870605,weka.classifiers.trees.RandomForest,-I 161 -K 0 -depth 19
+1460,softmax50,452,270,30,9,9.811320304870605,weka.classifiers.trees.RandomForest,-I 161 -K 0 -depth 19
+1460,softmax50,482,300,30,10,9.811320304870605,weka.classifiers.trees.RandomForest,-I 161 -K 0 -depth 19
+1460,softmax50,512,330,30,11,9.811320304870605,weka.classifiers.trees.RandomForest,-I 161 -K 0 -depth 19
+1460,softmax50,542,360,30,12,9.811320304870605,weka.classifiers.trees.RandomForest,-I 161 -K 0 -depth 19
+1460,softmax50,572,390,30,13,9.698113441467285,weka.classifiers.lazy.IBk,-K 37 -I
+1460,softmax50,602,420,30,14,9.698113441467285,weka.classifiers.lazy.IBk,-K 37 -I
+1460,softmax50,632,450,30,15,9.698113441467285,weka.classifiers.lazy.IBk,-K 37 -I
+1460,softmax50,662,480,30,16,9.698113441467285,weka.classifiers.lazy.IBk,-K 37 -I
+1460,softmax50,693,510,30,17,9.698113441467285,weka.classifiers.lazy.IBk,-K 37 -I
+1460,softmax50,723,540,30,18,9.698113441467285,weka.classifiers.lazy.IBk,-K 37 -I
+1460,softmax50,753,570,30,19,9.698113441467285,weka.classifiers.lazy.IBk,-K 37 -I
+1460,softmax50,783,600,30,20,9.698113441467285,weka.classifiers.lazy.IBk,-K 37 -I
+1460,softmax50,813,630,30,21,9.698113441467285,weka.classifiers.lazy.IBk,-K 37 -I
+1460,softmax50,843,660,30,22,9.698113441467285,weka.classifiers.lazy.IBk,-K 37 -I
+1460,softmax50,873,690,30,23,9.660377502441406,weka.classifiers.lazy.IBk,-K 37 -X -I
+1460,softmax50,903,720,30,24,9.60377311706543,weka.classifiers.lazy.IBk,-K 38 -X -I
+1460,softmax50,934,750,30,25,9.60377311706543,weka.classifiers.lazy.IBk,-K 38 -X -I
+1460,softmax50,964,780,30,26,9.60377311706543,weka.classifiers.lazy.IBk,-K 38 -X -I
+1460,softmax50,994,810,30,27,9.60377311706543,weka.classifiers.lazy.IBk,-K 38 -X -I
+1460,softmax50,1024,840,30,28,9.60377311706543,weka.classifiers.lazy.IBk,-K 38 -X -I
+1460,softmax50,1054,870,30,29,9.60377311706543,weka.classifiers.lazy.IBk,-K 38 -X -I

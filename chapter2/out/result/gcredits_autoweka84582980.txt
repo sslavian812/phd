@@ -1,0 +1,12 @@
+Algorithms:
+weka.classifiers.lazy.IBk
+weka.classifiers.trees.RandomForest
+weka.classifiers.functions.Logistic
+weka.classifiers.functions.SMO
+
+All time (seconds): 394
+
+Autoweka result:
+Raw args = -_0__wekaclassifiersfunctionssmo_00_0_C 1.1245112327435685 -_0__wekaclassifiersfunctionssmo_01_1_N 1 -_0__wekaclassifiersfunctionssmo_02_2_M REMOVED -_0__wekaclassifiersfunctionssmo_03_3_REG_IGNORE_QUOTE_START_K weka.classifiers.functions.supportVector.Puk -_0__wekaclassifiersfunctionssmo_08_4_puk_S 9.731692412733368 -_0__wekaclassifiersfunctionssmo_09_4_puk_O 0.3636939896211432 -_0__wekaclassifiersfunctionssmo_11_5_QUOTE_END REMOVED -targetclass weka.classifiers.functions.SMO 
+Args = -C 1.1245112327435685 -N 1 -M -K "weka.classifiers.functions.supportVector.Puk -S 9.731692412733368 -O 0.3636939896211432"
+Error estimate = 22.285715

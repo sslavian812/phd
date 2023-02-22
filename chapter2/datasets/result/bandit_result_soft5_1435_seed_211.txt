@@ -1,0 +1,39 @@
+1435,softmax50,241,60,30,2,13.17829418182373,weka.classifiers.functions.MultilayerPerceptron,-L 0.978421615310773 -M 0.4642687613061861 -B -H i -S 1
+1435,softmax50,271,90,30,3,13.17829418182373,weka.classifiers.functions.MultilayerPerceptron,-L 0.978421615310773 -M 0.4642687613061861 -B -H i -S 1
+1435,softmax50,301,120,30,4,9.272624969482422,weka.classifiers.functions.MultilayerPerceptron,-L 0.2783177091884209 -M 0.3863167767459642 -H t -S 1
+1435,softmax50,331,150,30,5,9.272624969482422,weka.classifiers.functions.MultilayerPerceptron,-L 0.2783177091884209 -M 0.3863167767459642 -H t -S 1
+1435,softmax50,361,180,30,6,9.272624969482422,weka.classifiers.functions.MultilayerPerceptron,-L 0.2783177091884209 -M 0.3863167767459642 -H t -S 1
+1435,softmax50,392,210,30,7,9.272624969482422,weka.classifiers.functions.MultilayerPerceptron,-L 0.2783177091884209 -M 0.3863167767459642 -H t -S 1
+1435,softmax50,422,240,30,8,9.272624969482422,weka.classifiers.functions.MultilayerPerceptron,-L 0.2783177091884209 -M 0.3863167767459642 -H t -S 1
+1435,softmax50,452,270,30,9,9.272624969482422,weka.classifiers.functions.MultilayerPerceptron,-L 0.2783177091884209 -M 0.3863167767459642 -H t -S 1
+1435,softmax50,482,300,30,10,9.272624969482422,weka.classifiers.functions.MultilayerPerceptron,-L 0.2783177091884209 -M 0.3863167767459642 -H t -S 1
+1435,softmax50,512,330,30,11,9.272624969482422,weka.classifiers.functions.MultilayerPerceptron,-L 0.2783177091884209 -M 0.3863167767459642 -H t -S 1
+1435,softmax50,542,360,30,12,9.272624969482422,weka.classifiers.functions.MultilayerPerceptron,-L 0.2783177091884209 -M 0.3863167767459642 -H t -S 1
+1435,softmax50,573,390,30,13,8.587276458740234,weka.classifiers.functions.MultilayerPerceptron,-L 0.329090530975066 -M 0.45448887863332144 -B -H t -S 1
+1435,softmax50,603,420,30,14,8.587276458740234,weka.classifiers.functions.MultilayerPerceptron,-L 0.329090530975066 -M 0.45448887863332144 -B -H t -S 1
+1435,softmax50,633,450,30,15,8.587276458740234,weka.classifiers.functions.MultilayerPerceptron,-L 0.329090530975066 -M 0.45448887863332144 -B -H t -S 1
+1435,softmax50,663,480,30,16,8.587276458740234,weka.classifiers.functions.MultilayerPerceptron,-L 0.329090530975066 -M 0.45448887863332144 -B -H t -S 1
+1435,softmax50,693,510,30,17,8.587276458740234,weka.classifiers.functions.MultilayerPerceptron,-L 0.329090530975066 -M 0.45448887863332144 -B -H t -S 1
+1435,softmax50,723,540,30,18,8.587276458740234,weka.classifiers.functions.MultilayerPerceptron,-L 0.329090530975066 -M 0.45448887863332144 -B -H t -S 1
+1435,softmax50,753,570,30,19,8.587276458740234,weka.classifiers.functions.MultilayerPerceptron,-L 0.329090530975066 -M 0.45448887863332144 -B -H t -S 1
+1435,softmax50,784,600,30,20,1.9713979959487915,weka.classifiers.functions.SMO,-C 1.287898736451028 -N 1 -K "weka.classifiers.functions.supportVector.Puk -S 7.058957269476836 -O 0.2495138947842097"
+1435,softmax50,814,630,30,21,1.9713979959487915,weka.classifiers.functions.SMO,-C 1.287898736451028 -N 1 -K "weka.classifiers.functions.supportVector.Puk -S 7.058957269476836 -O 0.2495138947842097"
+1435,softmax50,844,660,30,22,1.9713979959487915,weka.classifiers.functions.SMO,-C 1.287898736451028 -N 1 -K "weka.classifiers.functions.supportVector.Puk -S 7.058957269476836 -O 0.2495138947842097"
+1435,softmax50,874,690,30,23,1.9713979959487915,weka.classifiers.functions.SMO,-C 1.287898736451028 -N 1 -K "weka.classifiers.functions.supportVector.Puk -S 7.058957269476836 -O 0.2495138947842097"
+1435,softmax50,904,720,30,24,0.11627907305955887,weka.classifiers.functions.SMO,-C 1.123337903647053 -N 1 -K "weka.classifiers.functions.supportVector.Puk -S 4.9132261526831424 -O 0.17784043140818462"
+1435,softmax50,934,750,30,25,0.11627907305955887,weka.classifiers.functions.SMO,-C 1.123337903647053 -N 1 -K "weka.classifiers.functions.supportVector.Puk -S 4.9132261526831424 -O 0.17784043140818462"
+1435,softmax50,964,780,30,26,0.11627907305955887,weka.classifiers.functions.SMO,-C 1.123337903647053 -N 1 -K "weka.classifiers.functions.supportVector.Puk -S 4.9132261526831424 -O 0.17784043140818462"
+1435,softmax50,995,810,30,27,0.11627907305955887,weka.classifiers.functions.SMO,-C 1.123337903647053 -N 1 -K "weka.classifiers.functions.supportVector.Puk -S 4.9132261526831424 -O 0.17784043140818462"
+1435,softmax50,1025,840,30,28,0.11627907305955887,weka.classifiers.functions.SMO,-C 1.123337903647053 -N 1 -K "weka.classifiers.functions.supportVector.Puk -S 4.9132261526831424 -O 0.17784043140818462"
+1435,softmax50,1055,870,30,29,0.11627907305955887,weka.classifiers.functions.SMO,-C 1.123337903647053 -N 1 -K "weka.classifiers.functions.supportVector.Puk -S 4.9132261526831424 -O 0.17784043140818462"
+1435,softmax50,1085,900,30,30,0.11627907305955887,weka.classifiers.functions.SMO,-C 1.123337903647053 -N 1 -K "weka.classifiers.functions.supportVector.Puk -S 4.9132261526831424 -O 0.17784043140818462"
+1435,softmax50,1115,930,30,31,0.11627907305955887,weka.classifiers.functions.SMO,-C 1.123337903647053 -N 1 -K "weka.classifiers.functions.supportVector.Puk -S 4.9132261526831424 -O 0.17784043140818462"
+1435,softmax50,1145,960,30,32,0.11627907305955887,weka.classifiers.functions.SMO,-C 1.123337903647053 -N 1 -K "weka.classifiers.functions.supportVector.Puk -S 4.9132261526831424 -O 0.17784043140818462"
+1435,softmax50,1175,990,30,33,0.11627907305955887,weka.classifiers.functions.SMO,-C 1.123337903647053 -N 1 -K "weka.classifiers.functions.supportVector.Puk -S 4.9132261526831424 -O 0.17784043140818462"
+1435,softmax50,1206,1020,30,34,0.11627907305955887,weka.classifiers.functions.SMO,-C 1.123337903647053 -N 1 -K "weka.classifiers.functions.supportVector.Puk -S 4.9132261526831424 -O 0.17784043140818462"
+1435,softmax50,1236,1050,30,35,0.11627907305955887,weka.classifiers.functions.SMO,-C 1.123337903647053 -N 1 -K "weka.classifiers.functions.supportVector.Puk -S 4.9132261526831424 -O 0.17784043140818462"
+1435,softmax50,1266,1080,30,36,0.11627907305955887,weka.classifiers.functions.SMO,-C 1.123337903647053 -N 1 -K "weka.classifiers.functions.supportVector.Puk -S 4.9132261526831424 -O 0.17784043140818462"
+1435,softmax50,1296,1110,30,37,0.11627907305955887,weka.classifiers.functions.SMO,-C 1.123337903647053 -N 1 -K "weka.classifiers.functions.supportVector.Puk -S 4.9132261526831424 -O 0.17784043140818462"
+1435,softmax50,1326,1140,30,38,0.11627907305955887,weka.classifiers.functions.SMO,-C 1.123337903647053 -N 1 -K "weka.classifiers.functions.supportVector.Puk -S 4.9132261526831424 -O 0.17784043140818462"
+1435,softmax50,1356,1170,30,39,0.11627907305955887,weka.classifiers.functions.SMO,-C 1.123337903647053 -N 1 -K "weka.classifiers.functions.supportVector.Puk -S 4.9132261526831424 -O 0.17784043140818462"
+1435,softmax50,1387,1200,30,40,0.11627907305955887,weka.classifiers.functions.SMO,-C 1.123337903647053 -N 1 -K "weka.classifiers.functions.supportVector.Puk -S 4.9132261526831424 -O 0.17784043140818462"
